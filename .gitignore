@@ -9,6 +9,7 @@ bin/
 tmp/
 Design Data/
 Templates/
+OldVersions/
 *.lck
 *.old
 *.tmp
