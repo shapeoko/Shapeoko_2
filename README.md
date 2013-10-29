@@ -12,7 +12,7 @@ Maybe the project is a physical Machine, but it's the community that keeps the p
 
 The culmination of all that, is what you see here. I'd like to introduce you to Shapeoko 2. Say hello.
 
-![Shapeoko 2](https://github.com/shapeoko/ShapeOko_2/blob/master/Shapeoko_2.gif)
+![Shapeoko 2](https://github.com/shapeoko/ShapeOko_2/raw/master/Shapeoko_2.gif)
 
 Shapeoko 2 has taken all of our design improvements and rolled them up into one thoughtful, low-cost, scalable, hackable, simple, beautifully designed package full of improvements over the v1 Release.
 
