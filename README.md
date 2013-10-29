@@ -4,9 +4,9 @@ An idea that maybe there are people like me in the world. An idea that some peop
 
 ####An idea that maybe there was a different way to do CNC.####
 
-Those ideas laid the foundation for Project Shapeoko. It was those ideas that the community has built itself around. A community that started out as an email list and is now 1000+ active members strong, and growing everyday. A community that I wouldn't trade for anything.
+Those ideas laid the foundation for Project Shapeoko. It was those ideas that [the community](http://www.shapeoko.com/forum) has built itself around. A community that started out as an email list and is now 1000+ active members strong, and growing everyday. A community that I wouldn't trade for anything.
 
-Over the last two years the community has bounced ideas off each other, tested new ideas, discussed and debated trade-offs in various designs and improvements, and helped each other make a better machine. We are a pragmatic, positive bunch that hasn't taken it's eye off the main goal of the project: Let's do CNC a different way. Let's commoditize it, let's make it accessible to anyone who wants it, and lets give anyone a place where they can come learn, a place they can be a part of a community, and place where the newest, greenest, most inexperienced person's ideas and suggestions are taken as seriously as anyone elses. 
+Over the last two years the community has bounced ideas off each other, tested new ideas, discussed and debated trade-offs in various designs and improvements, and helped each other make a better machine. We are a pragmatic, positive bunch that hasn't taken it's eye off the main goal of the project: Let's do CNC a different way. Let's commoditize it, let's make it accessible to anyone who wants it, and lets give anyone a place where they can come learn, a place they can be part of a community, and place where the newest, greenest, most inexperienced person's ideas and suggestions are taken as seriously as anyone elses. 
 
 Maybe the project is a physical Machine, but it's the community that keeps the project together. It's the community that keeps the project moving forward, and it's the community that is responsible for Shapeoko 2.
 
