@@ -26,7 +26,7 @@ Shapeoko 2 has taken all of our design improvements and rolled them up into one 
 + Re-engineered belt system keeps teeth cleaner and reduces skipping
 + Easier to assemble- put it together over a weekend or a couple of nights
 
-#####This is the beginning of this repository. Information will be added as it becomes available and time permits.#####
+#####To-Do List#####
 - [x] Publish Original Design Files (Autodesk Inventor)
 - [x] Publish Generic Design Files (STEP Format)
 - [x] Publish Original Drawing Files (Autodesk Inventor)
@@ -34,3 +34,5 @@ Shapeoko 2 has taken all of our design improvements and rolled them up into one 
 - [ ] Publish Generic Drawing Files (DXF Format)
 - [ ] Publish Assembly Instructions (Outline Format)
 - [ ] Publish Formatted Assembly Instructions
+
+_This is the beginning of this repository. Information will be added as it becomes available and time permits._
