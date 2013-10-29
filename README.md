@@ -1,4 +1,4 @@
-####Shapeoko is as more of an idea than a physical machine.####
+####Shapeoko is as much an idea as a physical machine.####
 
 An idea that maybe there are people like me in the world. An idea that some people want a CNC machine but don't want to spend thousands of dollars to get one. An idea that maybe there are people who want a CNC machine, but don't necessarily know what they will make. An idea that maybe there are people who want a CNC machine but don't know how to use a CNC machine! An idea that maybe there are people who want to build something that was their own hands, but are not expert fabricators. An idea that a machine could be designed that was hackable, scalable, customizable, but doesn't require the re-invention of the wheel for each modification.
 
