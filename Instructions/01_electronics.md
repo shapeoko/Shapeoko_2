@@ -11,8 +11,8 @@
 6. Have fun. It is, after all, what it's all about. 
 
 
-You will need the following components to complete this step:
-1. Arduino
+###You will need the following components to complete this step:
+1. Arduino [preloaded with latest grbl](12_softwaretroubleshooting.md)
 2. grblShield
 3. Stepper motors (4)
 4. Power Supply with wall plug
@@ -21,6 +21,7 @@ You will need the following components to complete this step:
 7. Patience (just a little bit)
 8. Computer with USB
 9. USB Cable (A to B)
+10. [Universal GCode Sender installed on your computer](12_softwaretroubleshooting.md)
 
 
 ### Overview
@@ -43,15 +44,13 @@ OK, here we go. Let's get talking to the arduino.
 	* For Linux: find the folder where you downloaded UGS, then run: sudo ./startugs.sh. (you may need to 'sudo chmod +x startugs.sh' before attempting to execute the script)
 
 
-3. Once UGS is open, click the refresh button (two arrows chasing each other in a circle) located towards the top left of the window. This will refresh your choices of serial ports. [what happens if I get a "no serial ports found" error box?](10_arduinotroubleshooting.md)
+3. Once UGS is open, click the refresh button (two arrows chasing each other in a circle) located towards the top left of the window. This will refresh your choices of serial ports. Now go ahead an select your serial port and click 'connect'. 
+	- [no serial ports found error?](10_arduinotroubleshooting.md)
+	- [which serial port do I chose?](10_arduinotroubleshooting.md)
 
-![Universal GCode Sender main screen](http://placehold.it/400x400)
+	![Universal GCode Sender main screen](http://placehold.it/400x400)
 
-Now go ahead an select your serial port and click 'connect'.
-
-	![what to do if you can't figure out what serial port your arduino is using](http://placehold.it/400x400)
-
-4. If all goes well (went well) you should hear a very satisfying click/whooooosh noise. That means that your arduino is connected to your computer and power is being applied to your steppers! Wooohooo! Oh wait, your steppers aren't hooked up yet, are they? OK. We need to go back a few steps and get that straightened out. 
+4. If all goes well (went well) you should we should now be able to talk to the arduino through UGS. Let's send a couple of test commands and see if we get a response. 
 
 5. close the connection in UGS, shut down the window, and unplug the big end of the usb cable from your arduino.
 ***
@@ -64,13 +63,13 @@ Place the grblShield on your arduino. If you can't figure it out, take a look at
 
 ![insert picture of gshield being placed onto arduino](http://placehold.it/400x400)
 
-Now connect your stepper motors. Connecting the motors are easy, just do this
+Now connect your stepper motors. Connecting the motors is easy, just do this
 
 ![black green red blue](http://placehold.it/400x400)
 
-If you're looking at yiour controller wondering why there are only 3 temrinals and 4 steppers motors. We'll get to that later. Long story short, we are sharing one of them with your dual Y motors.
+If you're looking at your controller wondering why there are only 3 terminals and 4 steppers motors. We'll get to that later. (_spoiler alert: we are sharing one of them!_)
 
-Let's hookup the power now and gt these motors spinning. Polarity is important here. If you connect this backwards, there's a good chance your controller will get fried. And if that happens, there is a good chance you might cry. 
+Let's hookup the power now and get these motors spinning. *Polarity is important*. If you connect the power backwards, there is a good chance your controller will get fried. And if that happens, there is a good chance you might cry. 
 
 Your power should get hooked up like this:
 
@@ -87,4 +86,4 @@ OK. All set?
 7. Type G0 Y10, click go. Another One of your motors should move! Hooray for stepper motors!
 8. Type G0 Z10, click go. The other motor that hasnt' moved yet should move! Hooray for you.
 9. It's time to assemble the machine. Get your game face ready, it's go time!
-10. If  your motors didn't turn, or there was as problem, please don't cry. Check this page [link to troubleshooting page] for some troubleshooting tips/tricks.
+10. If  your motors didn't turn, or there was as problem, please don't cry. Check [this page](steppertroubleshooting.md) for some troubleshooting tips/tricks. 
