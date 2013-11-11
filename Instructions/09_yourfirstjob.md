@@ -1,0 +1,23 @@
+# Running Your First Real job!
+***
+![view of coaster]()
+
+### Let's keep a few things in mind:
+	1. Smart people, who value their eyesight, always wear safetly glasses.
+	2. If you are unsure of what you're doing. Stop doing it. Ask on the forum before ruining your machine.
+	3. Have fun. It is, after all, what it's all about. 
+
+
+You will need the following components to complete this step:
+	1. Assembled Shapeoko
+	2. Computer with internet access
+	3. 
+	
+You will need the following tools to complete this step in the assembly
+	1. 
+	2. 
+	3. 
+
+
+
+### Successfull Hello World
