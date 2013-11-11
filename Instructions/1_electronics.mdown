@@ -27,7 +27,7 @@ You will need the following components to complete this step:
 
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
 
-![insert picture of kerning]()
+![insert picture of kerning](http://placehold.it/400x400)
 
 If that's true, great! If it's not true, then either make your setup look like the one shown in the picture, or be prepared not to complain when you can't find something. Because it'll be your own fault.
 
@@ -39,14 +39,12 @@ OK, here we go. Let's get talking to the arduino.
 
 2. Open Universal gcode sender.
 ![Universal GCode Sender](images/1.0.6_job_finished.png)
-[how do I open UGS?]
-
-	For windows: Find the folder that you unzipped the file to. And then find startugcs.bat and double click it.
-	For mac: goto your download folder and click UGS
-	For Linux: find the folder that you curled the tar far into, and decend into the extracted folder. Then run sudo ./startugs.sh.
-	(keep in mind you may need to 'sudo chmod +x startugs.sh' before attempting to execture the script)
 
 
+####how do I open UGS?
+* For windows: Find the folder that you unzipped the file to. And then find startugcs.bat and double click it.
+* For mac: goto your download folder and click UGS
+* For Linux: find the folder where you downloaded UGS, then run: sudo ./startugs.sh. (you may need to 'sudo chmod +x startugs.sh' before attempting to execute the script)
 
 
 3. Once UGS is open, click the refresh button (two arrows chasing each other in a circle) located towards the top left of the window. This will refresh your choices of serial ports.
