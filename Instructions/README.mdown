@@ -1,18 +1,14 @@
 #Welcome to Project Shapeoko!
 
 ##### Table of Contents  
-[Testing the Electronics](##Testing the electronics)  
-[Emphasis](#emphasis)  
-[Lists](#lists)  
-[Links](#links)  
-[Images](#images)  
-[Code and Syntax Highlighting](#code)  
-[Tables](#tables)  
-[Blockquotes](#blockquotes)  
-[Inline HTML](#html)  
-[Horizontal Rule](#hr)  
-[Line Breaks](#lines)  
-[Youtube videos](#videos) 
+[Testing the Electronics](#Testing the electronics)
+[Carriage Plates](#Carriage Plates)
+[Z-Axis](#Z-Axis)
+[Gantry](#Gantry)
+[End Plates](#End Plates)
+[Work Area](#Work Area)
+[Electrical Wiring](#Electrical Wiring)
+[Hello, World!](#Hello, World!)
 
 ##Testing the electronics
 
