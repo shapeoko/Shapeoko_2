@@ -20,6 +20,4 @@ You will need the following tools to complete this step in the assembly
 
 
 
-
-
 ### Successfull Hello World
