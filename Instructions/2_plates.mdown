@@ -50,20 +50,20 @@ You will need the following tools to complete this step in the assembly
 	2. Without Stepepr Motor (there is 1 of these)
 
 ### With Stepper Motor
-	These are the plates that will mount on either end of the gantry and on the rear of the X-Axis.
-		1. Connect v-wheels to plate
-			two static
-			two eccentric
-		2. Connect the smooth idlers to plate
-			two total
-		3. Attach your stepper motor
-			Using 4 x M3x6mm SHCS, attach the stepper motor
-			Use an M3 washer between the SHCS and the plate
-			Slide the motor towards the top (end with the double slot) of the plate
+These are the plates that will mount on either end of the gantry and on the rear of the X-Axis.
+1. Connect v-wheels to plate
+	two static
+	two eccentric
+2. Connect the smooth idlers to plate
+	two total
+3. Attach your stepper motor
+	Using 4 x M3x6mm SHCS, attach the stepper motor
+	Use an M3 washer between the SHCS and the plate
+	Slide the motor towards the top (end with the double slot) of the plate
 
 ### Without Stepper Motor
-	This is the plate the z-axis will attach to. It sits on the front of the gantry and will be connected to the x-axis motor mount plate via rigid aluminum spacers. We will build the plate first, and then attach the two together.
-		1. Connect v-wheels to plate
-			two static
-			two eccentric
+This is the plate the z-axis will attach to. It sits on the front of the gantry and will be connected to the x-axis motor mount plate via rigid aluminum spacers. We will build the plate first, and then attach the two together.
+1. Connect v-wheels to plate
+	two static
+	two eccentric
 
