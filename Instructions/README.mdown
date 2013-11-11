@@ -1,17 +1,17 @@
-#Overview with outline
+#Welcome to Project Shapeoko!
 
-#Testing the electronics
+##Testing the electronics
 
-#Carriage Plates
+##Carriage Plates
 
-#Z-Axis
+##Z-Axis
 
-#Gantry
+##Gantry
 
-#End Plates
+##End Plates
 
-#Work Area
+##Work Area
 
-#Electrical Wiring
+##Electrical Wiring
 
-#Hello, World!
+##Hello, World!
