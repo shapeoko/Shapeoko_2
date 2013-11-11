@@ -15,13 +15,13 @@
 Beforfe we get all crazy bolting our parts together, we will give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require dis-assembly! Let' cut that off at the pass and give everythign a thorough checking first.
 
 You will need the following components to complete this step:
-	1. Arduino
-	2. grblShield
-	3. Stepper motors (4)
-	4. Power Supply with wall plug
-	5. Barrell Connector
-	6. Small screwdriver
-	7. Patience (just a little bit)
+1. Arduino
+2. grblShield
+3. Stepper motors (4)
+4. Power Supply with wall plug
+5. Barrell Connector
+6. Small screwdriver
+7. Patience (just a little bit)
 
 You will need the following tools to complete this step in the assembly
 	1. 
