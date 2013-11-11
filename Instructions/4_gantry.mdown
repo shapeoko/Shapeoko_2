@@ -1,0 +1,37 @@
+# Assembling the Gantry
+***
+![view of components laid out]()
+
+### Let's keep a few things in mind:
+	1. Smart people, who value their eyesight, always wear safetly glasses.
+	2. If you are unsure of what you're doing. Stop doing it. Ask on the forum before ruining your setup.
+	3. Have fun. It is, after all, what it's all about. 
+
+
+You will need the following components to complete this step:
+	1. Plates with Stepper Motors x 3
+	2. Plates without stepper motor x 1
+	3. z-axis assembly
+	4. Aluminum Spacers x 12
+	5. M5 x 70mm Button Head Cap Screws x 6
+	6. 500mm Makerslide x 2
+	7. M5 x 10mm BHCS x 4
+	8. M5 Flat Washers x 4
+
+You will need the following tools to complete this step in the assembly
+	1. M5 Hex Key
+	2. 5/16" End Wrench
+	3. Thread Locking Compound
+
+### Bolt the X-Axis Motor Mount plate to the Static X Plate
+	1. M5 x 70mm BHCS with M5 Flat Washers
+	2. Aluminum Spacers
+	3. Tightening order
+
+### Bolt the Y-Axis Motor Mount Plates to the 500mm makerslide
+	1. Bolt one onto the end
+	2. Slide the X-Axis assembly onto the makerslide
+	3. Bolt the other y-axis motor mount plate onto the end of the gantry
+	4. "Floating" alignment proceedure
+
+### Completed Gantry!

@@ -1,0 +1,34 @@
+# Assembling the End Plates
+***
+![view of components laid out]()
+
+### Let's keep a few things in mind:
+	1. Smart people, who value their eyesight, always wear safetly glasses.
+	2. If you are unsure of what you're doing. Stop doing it. Ask on the forum before ruining your setup.
+	3. Have fun. It is, after all, what it's all about. 
+
+
+You will need the following components to complete this step:
+	1. Assembled Gantry
+	2. 500mm makerslide x 2
+	3. End plates x 4
+
+You will need the following tools to complete this step in the assembly
+	1. 5/16" End Wrench
+	3. Thread Locking Compound
+
+### Slide the makerslide through one side of the gantry
+	1. 
+	2. 
+	3. 
+
+### Slide the makerslide through the other side of the gantry
+	1. 
+	2. 
+	3. 
+
+### Bolt end plates to the 500mm makerslide
+	1. M5 x 10mm SHCS with flat washers
+
+
+### Completed Step!
