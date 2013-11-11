@@ -45,9 +45,8 @@ You will need the following tools to complete this step in the assembly
 6. Repeat this proceedure for the remaining smooth idlers (6 total)
 
 ### There are 2 different styles of plates that we will be building
-
-	1. With Stepper Motor (there are 3 of these)
-	2. Without Stepepr Motor (there is 1 of these)
+1. With Stepper Motor (there are 3 of these)
+2. Without Stepepr Motor (there is 1 of these)
 
 ### With Stepper Motor
 These are the plates that will mount on either end of the gantry and on the rear of the X-Axis.
