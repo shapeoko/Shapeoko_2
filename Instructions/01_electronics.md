@@ -34,24 +34,18 @@ If that's true, great! If it's not true, then either make your setup look like t
 
 OK, here we go. Let's get talking to the arduino.
 
-1. First thing that we do is plug our arduino into the computer. Remember, the big end of hte cable goes into the arduino. The flat end of the cable goes into your USB port. There are lots of things that could go wrong here (like your computer not recognizing the board, you attempting to plug the cord in upside down, or some other very boring, silly thing). But, chances are the arduino will be recognized by your computer and we can move on to step 2. 
-
-[Click here to resolve any arduino issues:](10_arduinotroubleshooting.md)
+1. First thing that we do is plug our arduino into the computer. Remember, the big end of hte cable goes into the arduino. The flat end of the cable goes into your USB port. There are lots of things that could go wrong here (like your computer not recognizing the board, you attempting to plug the cord in upside down, or some other very boring, silly thing). But, chances are the arduino will be recognized by your computer and we can move on to step 2.  [Click here to resolve any arduino issues:](10_arduinotroubleshooting.md)
 
 2. Open Universal gcode sender.
-
-	![Universal GCode Sender](images/1.0.6_job_finished.png)
-
-
-####how do I open UGS?
-* For windows: Find the folder that you unzipped the file to. And then find startugcs.bat and double click it.
-* For mac: goto your download folder and click UGS
-* For Linux: find the folder where you downloaded UGS, then run: sudo ./startugs.sh. (you may need to 'sudo chmod +x startugs.sh' before attempting to execute the script)
+	####how do I open UGS?
+	* For windows: Find the folder that you unzipped the file to. And then find startugcs.bat and double click it.
+	* For mac: goto your download folder and click UGS
+	* For Linux: find the folder where you downloaded UGS, then run: sudo ./startugs.sh. (you may need to 'sudo chmod +x startugs.sh' before attempting to execute the script)
 
 
-3. Once UGS is open, click the refresh button (two arrows chasing each other in a circle) located towards the top left of the window. This will refresh your choices of serial ports.
+3. Once UGS is open, click the refresh button (two arrows chasing each other in a circle) located towards the top left of the window. This will refresh your choices of serial ports. [what happens if I get a "no serial ports found" error box?](10_arduinotroubleshooting.md)
 
-	[what happens if I get a "no serial ports found" error box?](10_arduinotroubleshooting.md)
+![Universal GCode Sender main screen](http://placehold.it/400x400)
 
 Now go ahead an select your serial port and click 'connect'.
 
