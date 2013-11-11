@@ -39,6 +39,7 @@ OK, here we go. Let's get talking to the arduino.
 [Click here to resolve any arduino issues:](10_arduinotroubleshooting.md)
 
 2. Open Universal gcode sender.
+
 ![Universal GCode Sender](images/1.0.6_job_finished.png)
 
 
@@ -66,16 +67,19 @@ Now go ahead an select your serial port and click 'connect'.
 We have established that your arduino connects to your computer and that you can issue it commands. We have also established that if your motors are not connected to the arduino, then issuing commands doesn't really do anythign at all. So let's go ahead and get everythign hooked up. 
 
 Place the grblShield on your arduino. If you can't figure it out, take a look at this picture for reference:
+
 ![insert picture of gshield being placed onto arduino](http://placehold.it/400x400)
 
 Now connect your stepper motors. Connecting the motors are easy, just do this
+
 ![black green red blue](http://placehold.it/400x400)
 
 If you're looking at yiour controller wondering why there are only 3 temrinals and 4 steppers motors. We'll get to that later. Long story short, we are sharing one of them with your dual Y motors.
 
 Let's hookup the power now and gt these motors spinning. Polarity is important here. If you connect this backwards, there's a good chance your controller will get fried. And if that happens, there is a good chance you might cry. 
 
-Your power should get hooked up like this.
+Your power should get hooked up like this:
+
 ![closeup of power connection](http://placehold.it/400x400)
 
 OK. All set? 
