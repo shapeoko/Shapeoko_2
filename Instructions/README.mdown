@@ -3,14 +3,14 @@ note: this directory contains the assembly instructions for Shapeoko 2. As of to
 #Welcome to Project Shapeoko!
 
 ##### Table of Contents  
-[Testing the Electronics](#Testing the electronics)  
-[Carriage Plates](#Carriage Plates)  
-[Z-Axis](#Z-Axis)  
-[Gantry](#Gantry)  
-[End Plates](#End Plates)  
-[Work Area](#Work Area)  
-[Electrical Wiring](#Electrical Wiring)  
-[Hello, World!](#Hello, World!)  
+[Testing the Electronics](#testing-the-electronics)  
+[Carriage Plates](#carriage-plates)  
+[Z-Axis](#z-axis)  
+[Gantry](#gantry)  
+[End Plates](#end-plates)  
+[Work Area](#work-area)  
+[Electrical Wiring](#electrical-wiring)  
+[Hello, World!](#hello-world)  
 
 ##Testing the electronics
 
