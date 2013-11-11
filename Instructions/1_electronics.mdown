@@ -22,11 +22,8 @@ You will need the following components to complete this step:
 5. Barrell Connector
 6. Small screwdriver
 7. Patience (just a little bit)
-
-You will need the following tools to complete this step in the assembly
-1. small screwdriver
-2. 
-3. 
+8. Computer with USB
+9. USB Cable (A to B)
 
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
 
@@ -38,16 +35,16 @@ OK, here we go. Let's get talking to the arduino.
 
 1. First thing that we do is plug our arduino into the computer. Remember, the big end of hte cable goes into the arduino. The flat end of the cable goes into your USB port. There are lots of things that could go wrong here (like your computer not recognizing the board, you attempting to plug the cord in upside down, or some other very boring, silly thing). But, chances are the arduino will be recognized by your computer and we can move on to step 2. 
 
-[If there was a boring, silly problem. Please see these pages to get it resolved:](10_arduinotroubleshooting)
+[Click here to resolve any arduino issues:](10_arduinotroubleshooting.md)
 
 2. Open Universal gcode sender.
+![Universal GCode Sender](images/1.0.6_job_finished.png)
+[how do I open UGS?]
 
-		[how do I open UGS?]
-
-			For windows: Find the folder that you unzipped the file to. And then find startugcs.bat and double click it.
-			For mac: goto your download folder and click UGS
-			For Linux: find the folder that you curled the tar far into, and decend into the extracted folder. Then run sudo ./startugs.sh.
-			(keep in mind you may need to 'sudo chmod +x startugs.sh' before attempting to execture the script)
+	For windows: Find the folder that you unzipped the file to. And then find startugcs.bat and double click it.
+	For mac: goto your download folder and click UGS
+	For Linux: find the folder that you curled the tar far into, and decend into the extracted folder. Then run sudo ./startugs.sh.
+	(keep in mind you may need to 'sudo chmod +x startugs.sh' before attempting to execture the script)
 
 
 
