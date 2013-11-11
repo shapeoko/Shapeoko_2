@@ -1,4 +1,4 @@
-note: this directory contains the assembly instructions for Shapeoko 2. As of today, this is a WIP and should be regarded as not usable until this header has been removed.
+note: this directory contains the assembly instructions for Shapeoko 2. This is a WIP and should be regarded as _not usable_ until this header has been removed.
 
 #Welcome to Project Shapeoko!
 
