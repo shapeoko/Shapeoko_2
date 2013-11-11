@@ -40,7 +40,7 @@ OK, here we go. Let's get talking to the arduino.
 
 2. Open Universal gcode sender.
 
-![Universal GCode Sender](images/1.0.6_job_finished.png)
+	![Universal GCode Sender](images/1.0.6_job_finished.png)
 
 
 ####how do I open UGS?
@@ -51,11 +51,11 @@ OK, here we go. Let's get talking to the arduino.
 
 3. Once UGS is open, click the refresh button (two arrows chasing each other in a circle) located towards the top left of the window. This will refresh your choices of serial ports.
 
-[what happens if I get a "no serial ports found" error box?](10_arduinotroubleshooting.md)
+	[what happens if I get a "no serial ports found" error box?](10_arduinotroubleshooting.md)
 
 Now go ahead an select your serial port and click 'connect'.
 
-![what to do if you can't figure out what serial port your arduino is using](10_arduinotroubleshooting.md)
+	![what to do if you can't figure out what serial port your arduino is using](http://placehold.it/400x400)
 
 4. If all goes well (went well) you should hear a very satisfying click/whooooosh noise. That means that your arduino is connected to your computer and power is being applied to your steppers! Wooohooo! Oh wait, your steppers aren't hooked up yet, are they? OK. We need to go back a few steps and get that straightened out. 
 
