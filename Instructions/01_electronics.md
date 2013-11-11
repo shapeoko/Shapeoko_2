@@ -11,9 +11,6 @@
 6. Have fun. It is, after all, what it's all about. 
 
 
-### Overview
-Beforfe we get all crazy bolting our parts together, we will give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require dis-assembly! Let' cut that off at the pass and give everythign a thorough checking first.
-
 You will need the following components to complete this step:
 1. Arduino
 2. grblShield
@@ -24,6 +21,10 @@ You will need the following components to complete this step:
 7. Patience (just a little bit)
 8. Computer with USB
 9. USB Cable (A to B)
+
+
+### Overview
+Before we get all crazy bolting our parts together, we will give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require dis-assembly! Let' cut that off at the pass and give everythign a thorough checking first.
 
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
 
@@ -65,17 +66,17 @@ Now go ahead an select your serial port and click 'connect'.
 We have established that your arduino connects to your computer and that you can issue it commands. We have also established that if your motors are not connected to the arduino, then issuing commands doesn't really do anythign at all. So let's go ahead and get everythign hooked up. 
 
 Place the grblShield on your arduino. If you can't figure it out, take a look at this picture for reference:
-	![insert picture of gshield being placed onto arduino](picture.jpg)
+![insert picture of gshield being placed onto arduino](http://placehold.it/400x400)
 
-No connect your stepper motors. Connecting the motors are easy, just do this
-	![black green red blue]()
+Now connect your stepper motors. Connecting the motors are easy, just do this
+![black green red blue](http://placehold.it/400x400)
 
 If you're looking at yiour controller wondering why there are only 3 temrinals and 4 steppers motors. We'll get to that later. Long story short, we are sharing one of them with your dual Y motors.
 
 Let's hookup the power now and gt these motors spinning. Polarity is important here. If you connect this backwards, there's a good chance your controller will get fried. And if that happens, there is a good chance you might cry. 
 
 Your power should get hooked up like this.
-	![closeup of power connection]()
+![closeup of power connection](http://placehold.it/400x400)
 
 OK. All set? 
 
