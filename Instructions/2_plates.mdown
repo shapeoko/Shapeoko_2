@@ -27,20 +27,22 @@ You will need the following tools to complete this step in the assembly
 
 
 ### So start things off, let's go ahead and assemble *all* of the v-wheel kits and smooth idlers
-	#### V-Wheels (20 wheels total)
-		1. Take one ball bearing, and insert it into the delrin v-wheel
-		2. Using one of the M5 x 20mm SHCS, slide the wheel over the screw
-		3. Slide a single precision washer around the screw
-		4. Slide another bearing around the screw
-		5. Using your thumbs, squeeze the assembly together. There will be a bit of friction getting the bearings settled into the wheel. When you tighten the wheel to the plate, you will squeeze the entire thing together tightly.
-		6. Repeat this proceedure for the remaining v-wheels (20 total)
-	#### Smooth Idlers (6 idlers total)
-		1. Take one ball bearing, and insert it into the open end of the smooth idler
-		2. using one of the m5 x 30mm SHCS, slide the idler over the screw
-		3. Slide a single precision washer around the screw
-		4. Slide another bearing around the screw
-		5. Using your thumbs, squeeze the assembly together. A small portion of the second bearing will be protruding from the edge of the smooth idler. This is normal. We will tighten the entire assembly when the idlers gets bolted to the motor mount plate
-		6. Repeat this proceedure for the remaining smooth idlers (6 total)
+	
+#### V-Wheels (20 wheels total)
+	1. Take one ball bearing, and insert it into the delrin v-wheel
+	2. Using one of the M5 x 20mm SHCS, slide the wheel over the screw
+	3. Slide a single precision washer around the screw
+	4. Slide another bearing around the screw
+	5. Using your thumbs, squeeze the assembly together. There will be a bit of friction getting the bearings settled into the wheel. When you tighten the wheel to the plate, you will squeeze the entire thing together tightly.
+	6. Repeat this proceedure for the remaining v-wheels (20 total)
+
+#### Smooth Idlers (6 idlers total)
+	1. Take one ball bearing, and insert it into the open end of the smooth idler
+	2. using one of the m5 x 30mm SHCS, slide the idler over the screw
+	3. Slide a single precision washer around the screw
+	4. Slide another bearing around the screw
+	5. Using your thumbs, squeeze the assembly together. A small portion of the second bearing will be protruding from the edge of the smooth idler. This is normal. We will tighten the entire assembly when the idlers gets bolted to the motor mount plate
+	6. Repeat this proceedure for the remaining smooth idlers (6 total)
 
 ### There are 2 different styles of plates that we will be building
 
