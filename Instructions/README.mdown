@@ -11,6 +11,7 @@ note: this directory contains the assembly instructions for Shapeoko 2. This is 
 [Work Area](#work-area)  
 [Electrical Wiring](#electrical-wiring)  
 [Hello, World!](#hello-world)  
+[Your First Job!](#your-first-job)  
 
 ##Testing the electronics
 
@@ -27,3 +28,5 @@ note: this directory contains the assembly instructions for Shapeoko 2. This is 
 ##Electrical Wiring
 
 ##Hello, World!
+
+##Your First Job!
