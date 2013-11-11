@@ -24,11 +24,11 @@ You will need the following components to complete this step:
 7. Patience (just a little bit)
 
 You will need the following tools to complete this step in the assembly
-	1. 
-	2. 
-	3. 
+1. small screwdriver
+2. 
+3. 
 
-Now that we have everythign gathered up, you should find yourself with a setup similar to this:
+Now that we have everything gathered up, you should find yourself with a setup similar to this:
 
 ![insert picture of kerning]()
 
@@ -36,9 +36,9 @@ If that's true, great! If it's not true, then either make your setup look like t
 
 OK, here we go. Let's get talking to the arduino.
 
-1. First thing that we do is plug our arduino into the computer. Remember, the big end of hte cable goes into the arduino. The flat end of the cable goes into your USB port. There are lots of things that could go wrong here (like your computer not recognizing the board, you attempting to plug the cord in upside down, or some other very boring, silly thing). Chances are the arduino will be recognized by your computer and we can move on to step 2. 
+1. First thing that we do is plug our arduino into the computer. Remember, the big end of hte cable goes into the arduino. The flat end of the cable goes into your USB port. There are lots of things that could go wrong here (like your computer not recognizing the board, you attempting to plug the cord in upside down, or some other very boring, silly thing). But, chances are the arduino will be recognized by your computer and we can move on to step 2. 
 
-		[If there was a boring, silly problem. Please see these pages to get it resolved:] [windows] [mac] [linux]
+[If there was a boring, silly problem. Please see these pages to get it resolved:](10_arduinotroubleshooting)
 
 2. Open Universal gcode sender.
 

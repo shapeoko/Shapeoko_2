@@ -32,7 +32,7 @@ Shapeoko 2 has taken all of our design improvements and rolled them up into one 
 - [x] Publish Original Drawing Files (Autodesk Inventor)
 - [ ] Publish Generic Drawing Files (PDF Format)
 - [ ] Publish Generic Drawing Files (DXF Format)
-- [ ] Publish Assembly Instructions (Outline Format)
+- [X] Publish Assembly Instructions (Outline Format) - WIP
 - [ ] Publish Formatted Assembly Instructions
 
 _This is the beginning of this repository. Information will be added as it becomes available and time permits._
