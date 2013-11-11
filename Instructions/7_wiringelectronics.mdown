@@ -20,19 +20,22 @@ You will need the following tools to complete this step in the assembly
 
 
 There are two ways we can wire the electronics
-	1. Use the terminal blocks to connect the stepper motor leads to the longer pieces of stepper cable (requires zero soldering)
-	2. Solder the leads from stepper motor directly to the longer stepper motor cable (requires soldering)
+
+### Method #1 (no soldering required)
+Use the terminal blocks to connect the stepper motor leads to the longer pieces of stepper cable (requires zero soldering)
+1. ...
+2. ...
+3. ...
+4. ...
+
+### Method #2 (soldering requried)
+Solder the leads from stepper motor directly to the longer stepper motor cable (requires soldering)
+1. ...
+2. ...
+3. ...
+4. ...
 
 
-Option 1, Wiring motors through the terminal blocks
-	1. 
-	2. 
-	3. 
-
-Option 2, wiring motors directly to stepper cable
-	1. 
-	2. 
-	3. 
 
 
 ### Completed Step!

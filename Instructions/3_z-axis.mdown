@@ -25,44 +25,12 @@ You will need the following tools to complete this step in the assembly
 	2. M2.5 Hex key
 	3. M5 Hex Key
 
-### So start things off, let's go ahead and assemble *all* of the v-wheel kits and smooth idlers
-	#### V-Wheels (20 wheels total)
-		1. Take one ball bearing, and insert it into the delrin v-wheel
-		2. Using one of the M5 x 20mm SHCS, slide the wheel over the screw
-		3. Slide a single precision washer around the screw
-		4. Slide another bearing around the screw
-		5. Using your thumbs, squeeze the assembly together. There will be a bit of friction getting the bearings settled into the wheel. When you tighten the wheel to the plate, you will squeeze the entire thing together tightly.
-		6. Repeat this proceedure for the remaining v-wheels (20 total)
-	#### Smooth Idlers (6 idlers total)
-		1. Take one ball bearing, and insert it into the open end of the smooth idler
-		2. using one of the m5 x 30mm SHCS, slide the idler over the screw
-		3. Slide a single precision washer around the screw
-		4. Slide another bearing around the screw
-		5. Using your thumbs, squeeze the assembly together. A small portion of the second bearing will be protruding from the edge of the smooth idler. This is normal. We will tighten the entire assembly when the idlers gets bolted to the motor mount plate
-		6. Repeat this proceedure for the remaining smooth idlers (6 total)
+### Assemble Mount Plates and shim
 
-### There are 2 different styles of plates that we will be building
+### Attach Mount Plates to makerslide
 
-	1. With Stepper Motor (there are 3 of these)
-	2. Without Stepepr Motor (there is 1 of these)
+### insert threaded rod
 
-### With Stepper Motor
-	These are the plates that will mount on either end of the gantry and on the rear of the X-Axis.
-		1. Connect v-wheels to plate
-			two static
-			two eccentric
-		2. Connect the smooth idlers to plate
-			two total
-		3. Attach your stepper motor
-			Using 4 x M3x6mm SHCS, attach the stepper motor
-			Use an M3 washer between the SHCS and the plate
-			Slide the motor towards the top (end with the double slot) of the plate
+### Use jam nuts to position rod to appropriate height
 
-### Without Stepper Motor
-	This is the plate the z-axis will attach to. It sits on the front of the gantry and will be connected to the x-axis motor mount plate via rigid aluminum spacers. We will build the plate first, and then attach the two together.
-		1. Connect v-wheels to plate
-			two static
-			two eccentric
-		2. Connect the Z-Axis Assembly
-			Using insertion nuts and M5 x 8mm SHCS
-			Squaring?
+### 

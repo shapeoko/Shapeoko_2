@@ -20,14 +20,15 @@ You will need the following tools to complete this step in the assembly
 	3. Thread Locking Compound (optional)
 
 ### Bolt the aluminum extrusion to the end plates on the front of the machine
-	1. 
-	2. 
-	3. repeat the process for the rear of the machine
+	1. note about slot height
+	2. note about floating alignment
+	3. ...
+	4. repeat the process for the rear of the machine
 
 ### Bolt the sectional wasteboard to the extrusions
-	1. 
-	2. 
-	3. 
+	1. note about being square
+	2. note about spacing from edge of extrusion to edge of end plate
+	3. might be easier to put the screws and insertion nuts onto the wasteboard and then slide the extrusions onto the bottom, then attach the extrusions to the end plates.
 
 
 ### Completed Step!
