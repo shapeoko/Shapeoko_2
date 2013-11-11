@@ -1,14 +1,14 @@
 #Welcome to Project Shapeoko!
 
 ##### Table of Contents  
-[Testing the Electronics](#Testing the electronics)
-[Carriage Plates](#Carriage Plates)
-[Z-Axis](#Z-Axis)
-[Gantry](#Gantry)
-[End Plates](#End Plates)
-[Work Area](#Work Area)
-[Electrical Wiring](#Electrical Wiring)
-[Hello, World!](#Hello, World!)
+[Testing the Electronics](#Testing the electronics)  
+[Carriage Plates](#Carriage Plates)  
+[Z-Axis](#Z-Axis)  
+[Gantry](#Gantry)  
+[End Plates](#End Plates)  
+[Work Area](#Work Area)  
+[Electrical Wiring](#Electrical Wiring)  
+[Hello, World!](#Hello, World!)  
 
 ##Testing the electronics
 
