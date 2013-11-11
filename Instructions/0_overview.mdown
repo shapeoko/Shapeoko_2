@@ -1,1 +1,17 @@
 #Overview with outline
+
+#Testing the electronics
+
+#Carriage Plates
+
+#Z-Axis
+
+#Gantry
+
+#End Plates
+
+#Work Area
+
+#Electrical Wiring
+
+#Hello, World!
