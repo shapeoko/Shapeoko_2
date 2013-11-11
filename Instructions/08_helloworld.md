@@ -1,4 +1,4 @@
-# Running Hellow World!
+# Running Hello World!
 ***
 ![view of assembled machine]()
 
@@ -9,14 +9,15 @@
 
 
 You will need the following components to complete this step:
-	1. 
-	2. 
-	3. 
+	1. Assembled Shapeoko
+	2. Computer
+	3. test gcode file
 	
 You will need the following tools to complete this step in the assembly
-	1. 
-	2. 
-	3. 
+	1. Sharpie pen
+	2. Paper
+	3. Tape
+	4. Patience
 
 
 
