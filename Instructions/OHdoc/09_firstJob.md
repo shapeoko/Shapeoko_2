@@ -27,7 +27,7 @@ Take the pointer tool with the circle on the end, and start working your letter 
 
 ##Engrave Letter
 Select your letter with the pointer tool. Once it's selected, the border will turn orange. Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK. Your letter should look like it's filled in with a hatch pattern.
-![another rounded rectangle](http://placehold.it/400x400)
+![another rounded rectangle](http://placehold.it/400x200)
 
 	//makercam settings
 	name: letter_pocket
