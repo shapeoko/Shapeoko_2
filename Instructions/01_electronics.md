@@ -1,6 +1,6 @@
 # Testing your Electronics
 ***
-![above view of electronics laid out](http://farm8.staticflickr.com/7412/10562956356_d77d032013_z_d.jpg)
+![above view of electronics laid out](http://placehold.it/400x400)
 
 ### Let's keep a few things in mind:
 1. If you unplug a stepper motor from the controller while it's energized (plugged in), you may very well blow up your controller. 
