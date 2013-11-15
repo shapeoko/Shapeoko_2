@@ -17,108 +17,6 @@
 		<script src="prettify.js"></script>
 <style>
 
-/* Pretty printing styles. Used with prettify.js. */
-/* Vim sunburst theme by David Leibovic */
-pre .str {
-  color: #65B042;
-}
-/* string  - green */
-pre .kwd {
-  color: #E28964;
-}
-/* keyword - dark pink */
-pre .com {
-  color: #AEAEAE;
-  font-style: italic;
-}
-/* comment - gray */
-pre .typ {
-  color: #89bdff;
-}
-/* type - light blue */
-pre .lit {
-  color: #3387CC;
-}
-/* literal - blue */
-pre .pun {
-  color: #fff;
-}
-/* punctuation - white */
-pre .pln {
-  color: orange;
-}
-/* plaintext - white */
-pre .tag {
-  color: #89bdff;
-}
-/* html/xml tag    - light blue */
-pre .atn {
-  color: #bdb76b;
-}
-/* html/xml attribute name  - khaki */
-pre .atv {
-  color: #65B042;
-}
-/* html/xml attribute value - green */
-pre .dec {
-  color: #3387CC;
-}
-/* decimal - blue */
-/* Specify class=linenums on a pre to get line numbering */
-ol.linenums {
-  margin-top: 0;
-  margin-bottom: 0;
-  color: #AEAEAE;
-}
-/* IE indents via margin-left */
-li.L0,
-li.L1,
-li.L2,
-li.L3,
-li.L5,
-li.L6,
-li.L7,
-li.L8 {
-  list-style-type: none;
-}
-/* Alternate shading for lines */
-@media print {
-  pre .str {
-    color: #060;
-  }
-  pre .kwd {
-    color: #006;
-    font-weight: bold;
-  }
-  pre .com {
-    color: #600;
-    font-style: italic;
-  }
-  pre .typ {
-    color: #404;
-    font-weight: bold;
-  }
-  pre .lit {
-    color: #044;
-  }
-  pre .pun {
-    color: #440;
-  }
-  pre .pln {
-    color: #000;
-  }
-  pre .tag {
-    color: #006;
-    font-weight: bold;
-  }
-  pre .atn {
-    color: #404;
-  }
-  pre .atv {
-    color: #060;
-  }
-}
-
 
 	* {
 	  padding: 0;
@@ -302,13 +200,24 @@ li.L8 {
 		
 		<div id="contentWrapper">
 			<h1 id="mainHeader">Shapeoko 2 - Troubleshooting</h1>
-			<h2 id="introText">Oh no, something went wrong! We can help. Read on.</h2>
+			<h3 id="introText">Oh no. Something went wrong. We can help. Read on.</h3>
 			<article id="gettingStarted">
 				<h1>Troubleshooting Philosophy</h1>
 					<h2>Overview</h2>
-						<p>Let's keep a few things in mind:</p>
+						<p>
+							Troubleshooting is a bit of an artform. When something breaks, it's frustrating, and in general we simply want it the problem right away and our natural instinct is to go right for the first thing you think of.</br></br>
 
-					
+							That works when your shoelace comes undone, or with other less complicated things, but when you're troubleshooting something complex, it helps to have a set of guidelines to go by. 
+
+							So, when something doesn't go right, and you've lost your way, use the following steps to help you determine what has happened.
+						</p>
+
+						<ul>
+							<li>Take a deep breath. Getting all panicky about the situation isnt going to help anyone. We need to be focused and relaxed.</li>
+							<li>Identify the problem</li>
+							<li>Isolate the issue. Trying to find a needle in a haystack is no fun. When something breaks, or isn't working, trace the issue up to the point of failure. Ask yourself "what was the last thing that was right?"</li>
+							<li>How can you repeat the problem? Is there something can do to make it break, or is this something that isn't working in the first place. These are subtle but important differences.</li>
+						</ul>
 			</article>	
 
 			<article id="arduinoTrouble">
