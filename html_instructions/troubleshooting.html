@@ -1,0 +1,431 @@
+<!doctype html>
+<html>
+	<head>
+	<!--
+		A note about the styling and layout of this page:
+		The layout and styling of this page, and subsiquently the redesign of this site, was heavily influenced by 
+		the design of the chartjs.org site. It's beauty through simplicity was too much to resist. I have made slight
+		changes so the site is not a direct ripoff, but don't want to hide the fact that the styling is taken basically
+		directly from their css file. 
+		
+		The awesome javascript function that turns H1s and H2s into the navigation is their code as well. 
+
+		I hope this is a compliment to the folks at chartjs.org as opposed to being "not cool"
+	-->
+		<title>Shapeoko 2</title>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="prettify.js"></script>
+<style>
+
+/* Pretty printing styles. Used with prettify.js. */
+/* Vim sunburst theme by David Leibovic */
+pre .str {
+  color: #65B042;
+}
+/* string  - green */
+pre .kwd {
+  color: #E28964;
+}
+/* keyword - dark pink */
+pre .com {
+  color: #AEAEAE;
+  font-style: italic;
+}
+/* comment - gray */
+pre .typ {
+  color: #89bdff;
+}
+/* type - light blue */
+pre .lit {
+  color: #3387CC;
+}
+/* literal - blue */
+pre .pun {
+  color: #fff;
+}
+/* punctuation - white */
+pre .pln {
+  color: orange;
+}
+/* plaintext - white */
+pre .tag {
+  color: #89bdff;
+}
+/* html/xml tag    - light blue */
+pre .atn {
+  color: #bdb76b;
+}
+/* html/xml attribute name  - khaki */
+pre .atv {
+  color: #65B042;
+}
+/* html/xml attribute value - green */
+pre .dec {
+  color: #3387CC;
+}
+/* decimal - blue */
+/* Specify class=linenums on a pre to get line numbering */
+ol.linenums {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #AEAEAE;
+}
+/* IE indents via margin-left */
+li.L0,
+li.L1,
+li.L2,
+li.L3,
+li.L5,
+li.L6,
+li.L7,
+li.L8 {
+  list-style-type: none;
+}
+/* Alternate shading for lines */
+@media print {
+  pre .str {
+    color: #060;
+  }
+  pre .kwd {
+    color: #006;
+    font-weight: bold;
+  }
+  pre .com {
+    color: #600;
+    font-style: italic;
+  }
+  pre .typ {
+    color: #404;
+    font-weight: bold;
+  }
+  pre .lit {
+    color: #044;
+  }
+  pre .pun {
+    color: #440;
+  }
+  pre .pln {
+    color: #000;
+  }
+  pre .tag {
+    color: #006;
+    font-weight: bold;
+  }
+  pre .atn {
+    color: #404;
+  }
+  pre .atv {
+    color: #060;
+  }
+}
+
+
+	* {
+	  padding: 0;
+	  margin: 0;
+	  box-sizing: border-box;
+	  -moz-box-sizing: border-box;
+	  -webkit-box-sizing: border-box;
+	  color: inherit;
+	  text-rendering: optimizeLegibility;
+	}
+	body {
+	  color: #282b36;
+	  min-width: 768px;
+	}
+	.redBorder,
+	.greenBorder,
+	.yellowBorder {
+	  border-top: 8px solid #282b36;
+	  width: 33.33%;
+	  float: left;
+	  height: 16px;
+	  position: relative;
+	  z-index: 50;
+	}
+	.redBorder {
+	  background-color: #f33e6f;
+	}
+	.greenBorder {
+	  background-color: #46bfbd;
+	}
+	.yellowBorder {
+	  background-color: #fdb45c;
+	}
+	h1 {
+	  font-family: "arial";
+	  font-weight: 600;
+	  font-size: 32px;
+	}
+	h2 {
+	  font-family: "arial";
+	  font-weight: 600;
+	  font-size: 22px;
+	  line-height: 40px;
+	}
+	#mainHeader {
+	  font-size: 55px;
+	}
+	#introText {
+	  font-weight: 400;
+	  margin-top: 20px;
+	  font-size: 26px;
+	  line-height: 40px;
+	  margin-bottom: 40px;
+	}
+	#wrapper {
+	  margin: 0 auto;
+	  position: relative;
+	  min-width: 768px;
+	}
+	#wrapper nav {
+	  width: 20%;
+	  padding-right: 20px;
+	  position: fixed;
+	  height: 100%;
+	  overflow-y: scroll;
+	  top: 0;
+	  z-index: 0;
+	  padding: 40px 20px;
+	  font-family: "arial";
+	  background-color: #ebebeb;
+	}
+	#wrapper nav dl {
+	  color: #767c8d;
+	}
+	#wrapper nav dl dt {
+	  list-style: none;
+	  margin-top: 10px;
+	  margin-bottom: 5px;
+	}
+	#wrapper nav dl dt a {
+	  display: block;
+	  padding: 2px 0;
+	  border-bottom: 1px solid rgba(118, 124, 141, 0.2);
+	  text-decoration: none;
+	}
+	#wrapper nav dl dd {
+	  margin-bottom: 5px;
+	  padding-left: 5px;
+	}
+	#wrapper nav dl dd:before {
+	  content: "- ";
+	}
+	#wrapper nav dl dd a {
+	  text-decoration: none;
+	  font-size: 12px;
+	  border-bottom: 1px solid transparent;
+	}
+	#wrapper nav dl a {
+	  -webkit-transition: all 200ms ease-in-out;
+	  -moz-transition: all 200ms ease-in-out;
+	  -o-transition: all 200ms ease-in-out;
+	  -ms-transition: all 200ms ease-in-out;
+	  transition: all 200ms ease-in-out;
+	}
+	#wrapper nav dl a:hover {
+	  color: #2d91ea;
+	  border-bottom-color: #2d91ea;
+	}
+	#wrapper #contentWrapper {
+	  width: 80%;
+	  max-width: 1080px;
+	  margin-left: 20%;
+	  padding: 0px 40px;
+	  padding-top: 72px;
+	}
+	article {
+	  border-top: 1px solid #ebebeb;
+	  padding: 40px 0;
+	}
+	article h2 {
+	  margin-top: 20px;
+	}
+	p,
+	ul li {
+	  font-family: "arial";
+	  line-height: 20px;
+	  font-size: 16px;
+	  margin-top: 10px;
+	  color: black;
+	}
+	ol {
+		margin-left: 40px;
+		font-family: "arial";
+	}
+
+	ol li {
+		font-family: "arial";
+	}
+	p a,
+	ul li a {
+	  text-decoration: none;
+	  border-bottom: 1px solid #2d91ea;
+	  color: #2d91ea;
+	}
+	canvas {
+	  margin-top: 20px;
+	}
+	pre {
+	  background-color: #333;
+	  padding: 10px;
+	  border-radius: 5px;
+	  position: relative;
+	  -webkit-font-smoothing: antialiased;
+	  margin: 40px 0 20px 0;
+	}
+	pre code {
+	  display: block;
+	}
+	pre:before {
+	  content: attr(data-type);
+	  position: absolute;
+	  font-size: 12px;
+	  top: -30px;
+	  left: 0;
+	  font-family: "arial";
+	  font-weight: 400;
+	  display: inline-block;
+	  padding: 2px 5px;
+	  border-radius: 5px;
+	  background-color: #ebebeb;
+	}
+</style>
+	</head>
+	<body>
+
+	<div id="wrapper">
+		<nav>	
+			<dl>
+			</dl>
+		</nav>
+		
+		<div id="contentWrapper">
+			<h1 id="mainHeader">Shapeoko 2 - Troubleshooting</h1>
+			<h2 id="introText">Oh no, something went wrong! We can help. Read on.</h2>
+			<article id="gettingStarted">
+				<h1>Troubleshooting Philosophy</h1>
+					<h2>Overview</h2>
+						<p>Let's keep a few things in mind:</p>
+
+					
+			</article>	
+
+			<article id="arduinoTrouble">
+				<h1>Arduino</h1>
+					<h2>Overview</h2>
+					<h2>Step 1</h2>					
+					<h2>Step 2</h2>
+					<h2>Step 3</h2>
+					<h2>Step 4</h2>
+			</article>
+
+			<article id="stepperTrouble">
+				<h1>Stepper Motors</h1>
+					<h2>Overview</h2>
+					<h2>Step 1</h2>					
+					<h2>Step 2</h2>
+					<h2>Step 3</h2>
+					<h2>Step 4</h2>
+			</article>
+			<article id="mechTrouble">
+				<h1>Mechanical</h1>
+					<h2>Overview</h2>
+					<h2>Step 1</h2>					
+					<h2>Step 2</h2>
+					<h2>Step 3</h2>
+					<h2>Step 4</h2>
+			</article>
+			<article id="ugsTrouble">
+				<h1>Universal Gcode Sender</h1>
+					<h2>Overview</h2>
+					<h2>Step 1</h2>					
+					<h2>Step 2</h2>
+					<h2>Step 3</h2>
+					<h2>Step 4</h2>
+			</article>
+
+			<article id="makerCam">
+				<h1>MakerCAM</h1>
+					<h2>Overview</h2>
+					<h2>Step 1</h2>					
+					<h2>Step 2</h2>
+					<h2>Step 3</h2>
+					<h2>Step 4</h2>
+			</article>
+
+
+
+
+<script>
+	$(document).ready(function(){
+	
+		var $nav = $("nav dl");
+		
+		$("article").each(function(){
+			var $el = $(this);
+			var $h1 = $el.find("h1");
+			var sectionTitle = $h1.html();
+			var articleId = $el.attr("id");
+			var $dt = $("<dt><a href=\"#"+articleId +"\">"+sectionTitle+"</a></dt>");
+			
+			$dt.find("a").on("click",function(e){
+				e.preventDefault();
+				$('html,body').animate({scrollTop: $h1.offset().top},400);
+			});
+			
+			$nav.append($dt);
+			
+			var $subtitles = $el.find("h2");
+			
+			$subtitles.each(function(){
+				var $h2 = $(this);
+				var title = $h2.text();
+				var newID = articleId + "-" +camelCase(title);
+				$h2.attr("id",newID);
+				var $dd = $("<dd><a href=\"#" +newID + "\">" + title + "</a></dd>");
+				
+				$dd.find("a").on("click",function(e){
+					e.preventDefault();
+					$('html,body').animate({scrollTop: $h2.offset().top},400);
+				})
+				$nav.append($dd);
+				
+			});
+			
+			var $articles = $el.find("article");
+			
+		});	
+		
+		$("canvas").each(function(){
+			var $canvas = $(this);
+			var ctx = this.getContext("2d");
+			
+			
+			
+			eval($("code[data-for='" + $canvas.attr("id") + "']").text());
+			
+			
+			var evalString = "new Chart(ctx)." + $canvas.data("type") + "(data);";
+			
+			eval(evalString);
+						
+		});
+		prettyPrint();			
+		
+		function camelCase(str){			
+			var splitString = str.split(" ");
+			
+			var returnedCamel = splitString[0].toLowerCase();
+			
+			for (var i=1; i<splitString.length; i++){
+				returnedCamel += splitString[i].charAt(0).toUpperCase() + splitString[i].substring(1).toLowerCase();
+			}
+			
+			return returnedCamel;
+			
+		} 
+	});
+	</script>
+</body>
+</html>
