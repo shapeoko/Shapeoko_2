@@ -12,120 +12,15 @@
 
 		I hope this is a compliment to the folks at chartjs.org as opposed to being "not cool"
 	-->
-		<title>Shapeoko 2</title>
+		<title>Demo Site</title>
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<script src="prettify.js"></script>
+
 <style>
-
-	/* Pretty printing styles. Used with prettify.js. */
-	/* Vim sunburst theme by David Leibovic */
-	pre .str {
-	  color: #65B042;
-	}
-	/* string  - green */
-	pre .kwd {
-	  color: #E28964;
-	}
-	/* keyword - dark pink */
-	pre .com {
-	  color: #AEAEAE;
-	  font-style: italic;
-	}
-	/* comment - gray */
-	pre .typ {
-	  color: #89bdff;
-	}
-	/* type - light blue */
-	pre .lit {
-	  color: #3387CC;
-	}
-	/* literal - blue */
-	pre .pun {
-	  color: #fff;
-	}
-	/* punctuation - white */
-	pre .pln {
-	  color: orange;
-	}
-	/* plaintext - white */
-	pre .tag {
-	  color: #89bdff;
-	}
-	/* html/xml tag    - light blue */
-	pre .atn {
-	  color: #bdb76b;
-	}
-	/* html/xml attribute name  - khaki */
-	pre .atv {
-	  color: #65B042;
-	}
-	/* html/xml attribute value - green */
-	pre .dec {
-	  color: #3387CC;
-	}
-	/* decimal - blue */
-	/* Specify class=linenums on a pre to get line numbering */
-	ol.linenums {
-	  margin-top: 0;
-	  margin-bottom: 0;
-	  color: #AEAEAE;
-	}
-	/* IE indents via margin-left */
-	li.L0,
-	li.L1,
-	li.L2,
-	li.L3,
-	li.L5,
-	li.L6,
-	li.L7,
-	li.L8 {
-	  list-style-type: none;
-	}
-	/* Alternate shading for lines */
-	@media print {
-	  pre .str {
-	    color: #060;
-	  }
-	  pre .kwd {
-	    color: #006;
-	    font-weight: bold;
-	  }
-	  pre .com {
-	    color: #600;
-	    font-style: italic;
-	  }
-	  pre .typ {
-	    color: #404;
-	    font-weight: bold;
-	  }
-	  pre .lit {
-	    color: #044;
-	  }
-	  pre .pun {
-	    color: #440;
-	  }
-	  pre .pln {
-	    color: #000;
-	  }
-	  pre .tag {
-	    color: #006;
-	    font-weight: bold;
-	  }
-	  pre .atn {
-	    color: #404;
-	  }
-	  pre .atv {
-	    color: #060;
-	  }
-}
-
-
 	* {
 	  padding: 0;
 	  margin: 0;
 	  box-sizing: border-box;
-	  -moz-box-sizing: border-box;
-	  -webkit-box-sizing: border-box;
 	  color: inherit;
 	  text-rendering: optimizeLegibility;
 	}
@@ -134,25 +29,7 @@
 	  min-width: 768px;
 	  font-family: arial;
 	}
-	.redBorder,
-	.greenBorder,
-	.yellowBorder {
-	  border-top: 8px solid #282b36;
-	  width: 33.33%;
-	  float: left;
-	  height: 16px;
-	  position: relative;
-	  z-index: 50;
-	}
-	.redBorder {
-	  background-color: #f33e6f;
-	}
-	.greenBorder {
-	  background-color: #46bfbd;
-	}
-	.yellowBorder {
-	  background-color: #fdb45c;
-	}
+
 	h1 {
 	  font-family: "arial";
 	  font-weight: 600;
@@ -162,7 +39,7 @@
 	  font-family: "arial";
 	  font-weight: 600;
 	  font-size: 22px;
-	  line-height: 40px;
+	  line-height: 30px;
 	}
 	#mainHeader {
 	  font-size: 55px;
@@ -180,7 +57,8 @@
 	  min-width: 768px;
 	}
 	#wrapper nav {
-	  width: 20%;
+	  width: 15%;
+	  min-width: 200px;
 	  padding-right: 20px;
 	  position: fixed;
 	  height: 100%;
@@ -242,19 +120,22 @@
 	article h2 {
 	  margin-top: 20px;
 	}
+	ul {
+		margin-left: 40px;
+		font-family: "arial";
+	}
 	p,
 	ul li {
 	  font-family: "arial";
 	  line-height: 20px;
 	  font-size: 16px;
-	  margin-top: 10px;
+	  margin-top: 5px;
 	  color: black;
 	}
 	ol {
 		margin-left: 40px;
 		font-family: "arial";
 	}
-
 	ol li {
 		font-family: "arial";
 	}
@@ -264,11 +145,10 @@
 	  border-bottom: 1px solid #2d91ea;
 	  color: #2d91ea;
 	}
-	canvas {
-	  margin-top: 20px;
-	}
 	pre {
 	  background-color: #333;
+	  color: orange;
+	  width: 35%;
 	  padding: 10px;
 	  border-radius: 5px;
 	  position: relative;
@@ -304,7 +184,6 @@
 		<div id="contentWrapper">
 			<h1 id="mainHeader">Shapeoko 2 Documentation</h1>
 			<h2 id="introText">Everything you need to know to assemble your Shapeko 2</h2>
-			<article id="gettingStarted">
 				<h1>Getting started</h1>
 					<h2>Overview</h2>
 					<h2>Things you Should Know</h2>
@@ -317,7 +196,6 @@
 							<li>Have fun. It is, after all, what it's all about.</li>
 						</ol>
 					
-			</article>	
 			<article id="testingElectronics">
 				<h1>Testing Your Electronics</h1>
 					<h2>Overview</h2>
