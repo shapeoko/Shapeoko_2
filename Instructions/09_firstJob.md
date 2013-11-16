@@ -23,10 +23,12 @@ Select the pencil tool from the toolbar in the top left corner of the screen. Us
 
 ##Pretify Your Freehand
 Take the pointer tool with the circle on the end, and start working your letter into shape. Zoom in, and hover over one of the corners. See the red dot? Now you can click and drag that red dot until your line is straight (or in the shape you want it). If you put that red dot onto another one, it will join the two lines together. Now we're getting somewhere! Once you're happy with the letter, go ahead and center it inside the rectangles.
+
 ![clean up](http://placehold.it/400x400)
 
 ##Engrave Letter
 Select your letter with the pointer tool. Once it's selected, the border will turn orange. Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK. Your letter should look like it's filled in with a hatch pattern.
+
 ![another rounded rectangle](http://placehold.it/400x200)
 
 	//makercam settings
