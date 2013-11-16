@@ -15,7 +15,7 @@ Before we get all crazy bolting our new machine together, let's give our electro
 * Computer with UGS installed
 * USB Cable (A to B)
 * Patience (just a little bit)
-* Another requirement				
+* Another requirement 2				
 
 ##Connect Arduino
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
