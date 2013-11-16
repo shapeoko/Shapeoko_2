@@ -1,6 +1,6 @@
 # Assembling the End Plates
 ***
-![view of components laid out]()
+![view of components laid out test]()
 
 ### Let's keep a few things in mind:
 1. Smart people, who value their eyesight, always wear safetly glasses.
