@@ -53,7 +53,6 @@ These are the plates that will mount on either end of the gantry and on the rear
 3. Attach your stepper motor
 	- Using 4 x M3x6mm SHCS, attach the stepper motor
 	- Use an M3 washer between the SHCS and the plate
-	- belt tensioning note
 
 
 ##Without Motor
