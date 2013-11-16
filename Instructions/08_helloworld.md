@@ -1,24 +1,22 @@
-# Running Hello World!
-***
-![view of assembled machine]()
+# Hello, World!
+## Overview
+![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![exploded view of assembly step](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
 
-### Let's keep a few things in mind:
-	1. Smart people, who value their eyesight, always wear safetly glasses.
-	2. If you are unsure of what you're doing. Stop doing it. Ask on the forum before ruining your machine.
-	3. Have fun. It is, after all, what it's all about. 
+## Requirements
+## Section Step 1
+![image of step](http://placehold.it/400x400)
 
+text about the section
+more text about this section
+an ordered list about this section
+1. list
+2. list
+3. list
+4. list
+5. list
 
-You will need the following components to complete this step:
-	1. Assembled Shapeoko
-	2. Computer
-	3. test gcode file
-	
-You will need the following tools to complete this step in the assembly
-	1. Sharpie pen
-	2. Paper
-	3. Tape
-	4. Patience
+## Section Step 2
+## Section Step 3
+## Section Step 4
 
-
-
-### Successfull Hello World
+## Section Step Test
