@@ -7,18 +7,22 @@ Welcome to Your New Life! After completing this step, you'll be a pro! OK, maybe
 
 ##Find the Origin
 Step #1: Open makerCAM.com. Zoom out until you can see the origin.  
+
 ![makercam origin](http://placehold.it/400x400)
 
 ##Create Rectangle
 Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle! Move the rounded rectangle so the bottom left corner is on the origin (0,0).  
+
 ![rounded rectangle](http://placehold.it/400x400)
 
 ##Another Rectangle
 Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.125 for both the length and width. leave the radius as 0.2. Click OK. You now have another rounded rectangle! Move the rounded rectangle so the bottom left corner is slightly inside of the bigger rectangle. Like this:
+
 ![another rounded rectangle](http://placehold.it/400x400)
 
 ##Draw Freehand!
 Select the pencil tool from the toolbar in the top left corner of the screen. Use it to draw the first letter of your last name. Draw it in block style. It might take a few tries. If you mess up, switch to the pointer tool, select your line and press 'delete' on your keyboard. Once you have a rough shape of your letter, take a step back and have a look. A little rough isn't it? That's OK, it's a start!
+
 ![freehand](http://placehold.it/400x400)
 
 ##Pretify Your Freehand
