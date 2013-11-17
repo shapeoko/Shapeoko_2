@@ -3,6 +3,10 @@
 ## Overview
 ![exploded view of assembly step](img/200x200.jpg)  ![image of completed assembly step](img/200x200.jpg) ![image of required components](img/200x200.jpg) ![video?](img/200x200.jpg)
 
+[![exploded view][2]][1]
+[1]: #electronics
+[2]: img/200x200.jpg (click for gallery)
+
 Before we get all crazy bolting our new machine together, let's give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require dissassembly! Let's cut that off at the pass and give everythign a thorough checking first.
 
 ## Requirements
