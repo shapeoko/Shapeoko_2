@@ -3,7 +3,7 @@
 ## Overview
 ![exploded view of assembly step](img/200x200.jpg)  ![image of completed assembly step](img/200x200.jpg) ![image of required components](img/200x200.jpg) ![video?](img/200x200.jpg)
 
-[![alt text][2]][1]
+[![exploded view of assembly step](img/200x200.jpg)](www.google.com)
 
 [1]: www.google.com
 [2]: img/200x200.jpg (click for gallery)
