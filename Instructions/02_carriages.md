@@ -19,7 +19,6 @@ The 3 plates with stepper motors are identicle and interchangeable. The plates a
 1. 5/16" (or 8mm) End Wrench
 1. M5 Hex Key
 1. Thread Locking Compount (optional)
-1. Tire iron
 
 ##V-Wheels
 ![assembled v-wheel](http://placehold.it/400x400)
