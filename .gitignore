@@ -10,6 +10,7 @@ tmp/
 Design Data/
 Templates/
 OldVersions/
+ContentCenter/
 *.lck
 *.old
 *.tmp
