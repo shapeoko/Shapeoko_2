@@ -1,6 +1,6 @@
 # Testing Electronics
 ## Overview
-![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![image of required components](img/200x200.jpg) ![video?](img/200x200.jpg)
+![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![image of required components](http://placehold.it/200x200) ![video?](img/200x200.jpg)
 
 Before we get all crazy bolting our new machine together, let's give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require dissassembly! Let's cut that off at the pass and give everythign a thorough checking first.
 
