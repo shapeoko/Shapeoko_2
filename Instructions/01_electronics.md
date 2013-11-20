@@ -2,19 +2,18 @@
 ## Overview
 ![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![image of required components](http://placehold.it/200x200) ![video?](img/200x200.jpg)
 
-Before we get all crazy bolting our new machine together, let's give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require dissassembly! Let's cut that off at the pass and give everythign a thorough checking first.
+Before we get all crazy bolting our new machine together, let's give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require dissassembly! Let's cut that off at the pass and give everything a thorough checking first.
 
 ## Requirements
-* Arduino with grbl firmware
-* grblShield
+* Arduino with Grbl firmware
+* (Arduino) gShield (formerly GrblShield)
 * Stepper motors x 4pcs
 * Power Supply with wall plug
-* Barrell Connector
+* Barrel Connector
 * Small screwdriver
 * Computer with UGS installed
 * USB Cable (A to B)
 * Patience (just a little bit)
-* changed this line.
 
 ##Connect Arduino
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
@@ -27,7 +26,7 @@ First thing that we do is plug our arduino into the computer.
 
 Remember, the big end of the cable goes into the arduino. 
 
-Chances are, the arduino will be recognized by your computer. If not, [click here](troubleshooting.html) for help.
+Chances are, the Arduino will be recognized by your computer. If not, [click here](troubleshooting.html) for help.
 
 ##UGS
 ![UGS](http://placehold.it/400x400)  
