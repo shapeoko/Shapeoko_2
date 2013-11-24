@@ -25,7 +25,7 @@ Select the pencil tool from the toolbar in the top left corner of the screen. Us
 
 ![freehand](http://placehold.it/400x400)
 
-##Pretify Your Freehand
+##Prettify Your Freehand
 Take the pointer tool with the circle on the end, and start working your letter into shape. Zoom in, and hover over one of the corners. See the red dot? Now you can click and drag that red dot until your line is straight (or in the shape you want it). If you put that red dot onto another one, it will join the two lines together. Now we're getting somewhere! Once you're happy with the letter, go ahead and center it inside the rectangles.
 
 ![clean up](http://placehold.it/400x400)
