@@ -33,7 +33,11 @@ If not, download the appropriate drivers/software for your platform (do not proc
 * [Windows](http://arduino.cc/en/Guide/Windows#toc2)
 * [Linux]([http://playground.arduino.cc/Learning/Linux)
 
-##UGS
+##Communication / Control Program
+
+Once the Arduino is recognized by your computer system, install a Communication / Control Program.
+
+###UGS
 ![UGS](http://placehold.it/400x400)  
 *(universal gcode sender by will winder)*
 
@@ -41,7 +45,11 @@ If Java isn't an option for your machine there are other [Communication/Control 
 
 ##Hook Stuff Up##
 
+Please note the gShield takes two different sizes of screwdriver.
 
 ##Go For a Spin##
+
+Attach tape to the motor shafts so as to more easily see the rotation.
+
 ##Another Spin
 ##And a Final Spin

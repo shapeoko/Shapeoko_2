@@ -14,11 +14,10 @@ The 3 plates with stepper motors are identical and interchangeable. The plates a
 1. M5 x 30mm Button Head Cap Screws x 6pcs
 1. M5 Hex Nuts x 15pcs
 1. M5 Flat Washers x ??pcs
-1. M5 x 20mm Button Head Cap Screws x 10pcs
-1. M5 x 25mm Button Head Cap Screws x 10pcs
+1. M5 x 20mm Button Head Cap Screws x 16pcs
 1. 5/16" (or 8mm) End Wrench
-1. M5 Hex Key
-1. Thread Locking Compount (optional)
+1. M3 Hex Key (not M5)
+1. Thread Locking Compound (optional)
 
 ##V-Wheels
 ![assembled v-wheel](http://placehold.it/400x400)
