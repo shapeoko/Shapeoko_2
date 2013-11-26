@@ -4,9 +4,9 @@ An idea that maybe there are people like me in the world. An idea that some peop
 
 ####An idea that maybe there was a different way to do CNC.####
 
-Those ideas laid the foundation for Project Shapeoko. It was those ideas that [the community](http://www.shapeoko.com/forum) has built itself around. A community that started out as an email list and is now 1000+ active members strong, and growing everyday. A community that I wouldn't trade for anything.
+Those ideas laid the foundation for Project Shapeoko. It was those ideas that [the community](http://www.shapeoko.com/forum) has built itself around. A community that started out as an email list and is now 1,000+ active members strong, and growing everyday. A community that I wouldn't trade for anything.
 
-Over the last two years the community has bounced ideas off each other, tested new ideas, discussed and debated trade-offs in various designs and improvements, and helped each other make a better machine. We are a pragmatic, positive bunch that hasn't taken it's eye off the main goal of the project: Let's do CNC a different way. Let's commoditize it, let's make it accessible to anyone who wants it, and lets give anyone a place where they can come learn, a place they can be part of a community, and place where the newest, greenest, most inexperienced person's ideas and suggestions are taken as seriously as anyone elses. 
+Over the last two years the community has bounced ideas off each other, tested new ideas, discussed and debated trade-offs in various designs and improvements, and helped each other make a better machine. We are a pragmatic, positive bunch that hasn't taken it's eye off the main goal of the project: Let's do CNC a different way. Let's commoditize it, let's make it accessible to anyone who wants it, and lets give anyone a place where they can come learn, a place they can be part of a community, and place where the newest, greenest, most inexperienced person's ideas and suggestions are taken as seriously as anyone else's. 
 
 Maybe the project is a physical Machine, but it's the community that keeps the project together. It's the community that keeps the project moving forward, and it's the community that is responsible for Shapeoko 2.
 
@@ -17,14 +17,14 @@ The culmination of all that, is what you see here. I'd like to introduce you to 
 Shapeoko 2 has taken all of our design improvements and rolled them up into one thoughtful, low-cost, scalable, hackable, simple, beautifully designed package full of improvements over the v1 Release.
 
 ####Specifications:####
-+ Working area is expanded to about 12" by 12" by 2.5"
++ Working area is expanded to about 12" by 12" by 3.5"
 + Open front and back for loading in longer pieces of material
 + Dual-drive motors on the Y axis, standard
 + Double width Makerslide on the X axis for added stiffness and strength
 + Completely redesigned Z axis for added stiffness and easier tool changes
 + The wasteboard is now integrated with the machine
 + Re-engineered belt system keeps teeth cleaner and reduces skipping
-+ Easier to assemble- put it together over a weekend or a couple of nights
++ Easier to assemble — put it together over a weekend or a couple of nights
 
 #####To-Do List#####
 - [x] Publish Original Design Files (Autodesk Inventor)
