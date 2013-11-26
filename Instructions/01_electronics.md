@@ -1,6 +1,6 @@
 # Testing Electronics
 ## Overview
-<<<<<<< HEAD
+
 ![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![image of required components](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
 =======
 ![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![image of required components](tpictures/so_electronics_parts_2.jpg) ![video?](http://placehold.it/200x200)
