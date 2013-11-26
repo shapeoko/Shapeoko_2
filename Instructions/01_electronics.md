@@ -19,7 +19,7 @@ Before we get all crazy bolting our new machine together, let's give our electro
 ##Connect Arduino
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
 
-![image of required components](tpictures/so_electronics_parts_4.jpg)  
+![image of required components](tPictures/so_electronics_parts_4.jpg)  
 
 First thing that we do is plug our Arduino into the computer.
 
