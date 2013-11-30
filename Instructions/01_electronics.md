@@ -21,14 +21,14 @@ Before we get all crazy bolting our new machine together, let's give our electro
 
 ![Tools](tPictures/so_e_tools_4.jpg)
 
-* Wire stripper (for 20--22 gauge wire)
+* Wire stripper (for 20–22 gauge wire)
 * 3/32" (medium size jeweler's) flat blade screwdriver
 * 1/8" (fine tip) flat blade screwdriver 
 * Wire cutters
 * #2 Phillips or 9/32" flat blade screwdriver
 * (optional and not shown) Multimeter for testing continuity
 
-The terminal blocks use a combination screw which will accept either a Phillips or flat blade screwdriver. There is a custom driver  which incorporates both and makes a compleat connection w/ the screw head, but that degree of torque is not needed in this application.
+The terminal blocks use a combination screw which will accept either a Phillips or flat blade screwdriver. (There is a custom driver which incorporates both and makes a compleat connection with the screw head, but that degree of torque is not needed in this application.)
 
 ##Connect Arduino
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
@@ -117,7 +117,7 @@ If you have a multimeter you may wish to test the connections for continuity.
 
 _Be careful with the power supply, and don't work on power wires when the power supply is plugged in._
 
-**Caution:** Please note that the 12V power supply has a connector which matches the Arduino's 5V power supply connection --- it must not be plugged into said connector. The Arduino is able to draw its power over the USB connection, so the power connector on the Arduino is not used.
+**Caution:** Please note that the 12V power supply has a connector which matches the Arduino's 5V power supply connection — it must not be plugged into said connector. The Arduino is able to draw its power over the USB connection, so the power connector on the Arduino is not used.
 
 First, strip the power lead, it may also be necessary to split the lead at the end so as to allow it to neatly connect to the power connector on the gShield.
 
@@ -154,4 +154,4 @@ X-Axis
 
 ###And a Final Spin###
 
-Y-Axis --- make certain that the two motors for the Y-axis are rotating in opposite directions.
+Y-Axis — make certain that the two motors for the Y-axis are rotating in opposite directions.
