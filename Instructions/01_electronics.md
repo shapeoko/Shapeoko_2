@@ -21,7 +21,7 @@ Before we get all crazy bolting our new machine together, let's give our electro
 
 ![Tools](tPictures/so_e_tools_4.jpg)
 
-* Wire stripper (for 20–22 gauge wire)
+* Wire stripper (for 18–20 gauge wire)
 * 3/32" (medium size jeweler's) flat blade screwdriver
 * 1/8" (fine tip) flat blade screwdriver 
 * Wire cutters
@@ -128,7 +128,7 @@ Connect it to the Arduino. There are two leads, one a solid black wire, the othe
 * black == (-)
 * black/white == (+) (or red)
 
-Please connect each lead to the appropriate side of the gShield's power connector.
+Please connect each lead to the appropriate side of the gShield's blue power connector.
 
 ![Power connections](tPictures/so_e_arduino_usb_4.jpg)
 
