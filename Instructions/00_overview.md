@@ -10,7 +10,7 @@ The ShapeOko is an assembly of sub-assemblies. There are only a few steps:
 6. Assemble Waste Board Assembly and Y-Axis Rail Assemblies (PS20024) Slide onto Gantry
 7. Assemble the work area to complete the machine
 
-If you have any difficulties with assembly, please check the ShapeOko wiki and forums.
+If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
 
 ##A Note on Tapping
 
