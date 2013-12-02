@@ -1,11 +1,6 @@
 # Testing Electronics
 ## Overview
 
-![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![image of required components](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
-=======
-![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![image of required components](tpictures/so_electronics_parts_2.jpg) ![video?](http://placehold.it/200x200)
->>>>>>> ef09fc08d871d1e44e905d2461a0740d228656d1
-=======
 ![exploded view of assembly step](http://placehold.it/200x200)  ![Arduino, gShield, wiring, stepper motors, lit](tPictures/so_e_arduino_wired_li_2.jpg) ![image of required components](tPictures/so_electronics_parts_2.jpg) ![Tools](tPictures/so_e_tools_2.jpg)
 
 
