@@ -1,9 +1,10 @@
 # Testing Electronics
 ## Overview
-
+<<<<<<< HEAD
+![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![image of required components](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
 =======
-
-![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![image of required components](tPictures/so_electronics_parts_2.jpg) ![video?](http://placehold.it/200x200)
+![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![image of required components](tpictures/so_electronics_parts_2.jpg) ![video?](http://placehold.it/200x200)
+>>>>>>> ef09fc08d871d1e44e905d2461a0740d228656d1
 
 Before we get all crazy bolting our new machine together, let's give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require disassembly! Let's cut that off at the pass and give everything a thorough checking first.
 
@@ -21,7 +22,7 @@ Before we get all crazy bolting our new machine together, let's give our electro
 ##Connect Arduino
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
 
-![image of required components](tPictures/so_electronics_parts_4.jpg)  
+![image of required components](tpictures/so_electronics_parts_4.jpg)  
 
 First thing that we do is plug our Arduino into the computer.
 
