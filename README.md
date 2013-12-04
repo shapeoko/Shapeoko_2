@@ -19,9 +19,9 @@ Shapeoko 2 has taken all of our design improvements and rolled them up into one 
 ####Specifications:####
 + Working area is expanded to about 12" by 12" by 3.5"
 + Open front and back for loading in longer pieces of material
-+ Dual-drive motors on the Y axis, standard
++ Dual-drive motors on the Y-axis, standard
 + Double width Makerslide on the X axis for added stiffness and strength
-+ Completely redesigned Z axis for added stiffness and easier tool changes
++ Completely redesigned Z-axis for added stiffness and easier tool changes
 + The wasteboard is now integrated with the machine
 + Re-engineered belt system keeps teeth cleaner and reduces skipping
 + Easier to assemble — put it together over a weekend or a couple of nights

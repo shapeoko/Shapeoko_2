@@ -2,7 +2,7 @@
 
 ![V- and Idler Wheel Parts](tPictures/so_vw_iw_parts_2.jpg)
 ![V-Wheel Assembled](tPictures/so_vwi_vwheel_2.jpg)
-![Idler Wheel Assembled](tPictures/so_vwi_vwheel_2.jpg)
+![Smooth Idler Wheel Assembled](tPictures/so_smooth_idler_2.jpg)
 
 Makerslide uses V-wheels to allow for movement along the rails which it affords.
 
@@ -70,4 +70,4 @@ Alternate, assembly-line procedure for the V-Wheels:
 5. Using your thumbs, squeeze the assembly together. A small portion of the second bearing will be protruding from the edge of the smooth idler. This is normal. We will tighten the entire assembly when the idlers gets bolted to the motor mount plate
 6. Repeat this procedure for the remaining smooth idlers (6 total)
 
-![Idler Wheel Assembled](tPictures/so_vwi_vwheel_4.jpg)
+![Smooth Idler Wheel Assembled](tPictures/so_smooth_idler_4.jpg)

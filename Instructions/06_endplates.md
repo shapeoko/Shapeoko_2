@@ -3,7 +3,8 @@
 PS20026
 
 ## Overview
-![exploded view of End Plates](tPictures/PS20026_2.png)  ![image of completed assembly step](http://placehold.it/200x200) ![exploded view of assembly step](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
+![exploded view of End Plates](tPictures/PS20026_2.png) 
+![](tPictures/so_y_axis_rail_parts_2.jpg) ![video?](http://placehold.it/200x200)
 
 ## Requirements
 
@@ -14,9 +15,13 @@ PS20026
 * X/Y Axis Rail - MakerSlide Extrusion - 500mm PS20008 1 5
 
 
-## Attaching MakerSlide
+### Attaching MakerSlide
 
-## Attaching End Plates
+### Attaching End Plates
 
-## Alignment
+### Belt Anchors
+![](tPictures/so_belt_anchors_2.jpg)
+![](tPictures/so_belt_anchors_parts_2.jpg)
+
+### Alignment
 
