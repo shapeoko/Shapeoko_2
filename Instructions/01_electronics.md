@@ -103,7 +103,7 @@ Next, connect the grey wires from the terminal blocks to the stepper motors. Mak
 
 Please note the gShield takes two different sizes of screwdriver. 1/8" for the screws in the blue power connector, 3/32" for the screws in the green stepper motor connectors.
 
-The green stepper motor connectors should be unscrewed so as to open them up as the left-most connector is below.
+The green stepper motor connectors should be unscrewed so as to open them up as the right-most connector is below.
 
 ![Open connector on gShield](tPictures/so_e_arduino_open_4.jpg)
 
