@@ -2,8 +2,8 @@
 
 ## Overview
 
-![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![exploded view of assembly step](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
-
+![](tPictures/so_complete_2.jpg)
+![](tPictures/so_assembly_gantry_rails_2.jpg)
 
 ##Waste Board Assembly (PS20024)
 
@@ -13,30 +13,33 @@
 - 2 PS20001 MDF wasteboard (1/2")
 - 2 PS20009 20mm x 20mm x 550mm aluminum extrusion, black anodized
 
-![exploded view of assembly step](tPictures/PS20024_2.png)  ![image of completed assembly step](http://placehold.it/200x200) ![exploded view of assembly step](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
+![exploded view of assembly step](tPictures/PS20024_2.png)  ![](tPictures/so_waste_board_2.jpg) ![](tPictures/so_waste_board_parts_2.jpg)
 
-##Y-Axis Rail Assemblies (PS20026)
 
-- 2 26028-01 End Plate (12ga)
-- 4 25286-02 M5 x 12mm, BHCS
-- 4 25287-02 Flat Washer, M5
-- 2 PS20020 Belt Clip Assembly
-- 1 PS20008 X/Y Axis Rail MakerSlide Extrusion 500mm
-
-![exploded view of assembly step](tPictures/PS20026_2.png)  ![image of completed assembly step](http://placehold.it/200x200) ![exploded view of assembly step](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
-
-## Requirements
-
-## 20x20 Extrusions
+### 20x20 Extrusions
 Slide Entire  Assembly over wasteboard Assembly, fasten with:
 
 - M5x10
 - M5 washer
 - Insertion Nut
 
+![](tPictures/so_m5_x_10mm_bhcs_washer_insertion_nut_2.jpg)
 
-## Squaring the Table
+### Squaring the Table
 
-## Alignment
+Square up the wasteboard assembly carefully, since it will be the foundation for the balance of the machine.
 
-## From Hook
+* 2 Y-Axis Rail Assembly (PS20026)
+* Complete Gantry (PS20025)
+* Waste Board Assembly (PS20024)
+
+Turn the eccentric nuts on the V-wheels on the Complete Gantry (PS20025) so that they are as far from the static V-wheels as is possible. Drive the Complete Gantry onto the two Y-Axis Rail Assemblies (PS20026), then attach the open end plates.
+
+Place the 10mm M5 bolts w/ washers into the bottom holes on the open end plates, thread on the insertion nuts, then carefully slide the rail assemblies onto the wasteboard extrusion. Check the alignment with a known-to-be-good square. One can also measure the diagonals to test for squareness. Ensure that everything is aligned squarely and that the Complete Gantry and the X-Axis Sub Gantry move smoothly. Tighten the bolts.
+
+Congratulations! You've built a ShapeOko!
+
+![](tPictures/so_complete_4.jpg)
+
+
+

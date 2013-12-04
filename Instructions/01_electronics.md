@@ -1,8 +1,6 @@
 # Testing Electronics
 ## Overview
-
 ![exploded view of assembly step](http://placehold.it/200x200)  ![Arduino, gShield, wiring, stepper motors, lit](tPictures/so_e_arduino_wired_li_2.jpg) ![image of required components](tPictures/so_electronics_parts_2.jpg) ![Tools](tPictures/so_e_tools_2.jpg)
-
 
 Before we get all crazy bolting our new machine together, let's give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require disassembly! Let's cut that off at the pass and give everything a thorough checking first.
 
@@ -105,7 +103,7 @@ Next, connect the grey wires from the terminal blocks to the stepper motors. Mak
 
 Please note the gShield takes two different sizes of screwdriver. 1/8" for the screws in the blue power connector, 3/32" for the screws in the green stepper motor connectors.
 
-The green stepper motor connectors should be unscrewed so as to open them up as the left-most connector is below.
+The green stepper motor connectors should be unscrewed so as to open them up as the right-most connector is below.
 
 ![Open connector on gShield](tPictures/so_e_arduino_open_4.jpg)
 

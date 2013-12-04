@@ -1,23 +1,6 @@
 # Gantry
 
-Gantry Carriage (PS20031)
-
-- 1 PS20022 Motor Mount Carriage
-- 1 PS20030 Complete Z-Axis Assembly
-- 6 25312-20 1-1/4" #12 Bore, Aluminum Spacer
-- 6 PS20006 M5 x 70mm SHCS
-- 12 25287-02 Flat Washer, M5
-- 6 PS20002 3/8" x 1-1/4" x #12 bore, aluminum spacer
-- 6 25284-02 M5 Hex Nut
-
-## Overview
-![exploded view of Gantry Carriage](tPictures/PS20031_2)  ![image of completed assembly step](http://placehold.it/200x200) ![exploded view of assembly step](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
-
-## Requirements
-
-## X-Axis
-
-Sub Gantry (PS20023)
+##Sub Gantry (PS20023)
 
 - 2 PS20022 Motor Mount Carriage
 - 2 PS20020 Belt Clip Assembly
@@ -25,14 +8,28 @@ Sub Gantry (PS20023)
 - 8 25287-02 Flat Washer, M5
 - 2 PS20008 X/Y Axis Rail MakerSlide Extrusion 500mm
 
-![exploded view of Gantry Carriage](tPictures/PS20023_2)  ![image of completed assembly step](http://placehold.it/200x200) ![exploded view of assembly step](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
+![exploded view of Gantry Carriage](tPictures/PS20023_2.png) 
+![](tPictures/so_gantry_2.jpg)
+![](tPictures/so_gantry_parts_2.jpg)
 
-Note: Do not attach one end plate during this step. Slide the gantry carriage onto the gantry before attaching the second motor mount plate.
+**Note:** Do not attach one end plate during this step (despite the photograph showing this). Slide the gantry carriage onto the gantry (see below) before attaching the second motor mount plate.
 
-This is evident in the next step
+This is evident in the next step.
 
-Complete Gantry (PS20025)
+Push the MakerSlide as far as is possible to one end of the slot which the 12mm M5 bolts fit through. Only tighten the pair of bolts on the MakerSlide which is snugged up against the end of the slot, the other should be slightly loose. Note that there is a space in-between the two pieces of MakerSlide. This spacing will be set in the next step.
 
-![exploded view of Gantry Carriage](tPictures/PS20025_2)  ![image of completed assembly step](http://placehold.it/200x200) ![exploded view of assembly step](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
+### Belt Anchors
+![](tPictures/so_belt_anchors_2.jpg)
+![](tPictures/so_belt_anchors_parts_2.jpg)
 
-## Y-Axis
+The belt anchors must be assembled and placed on the MakerSlide before attaching the second Motor Mount Carriage.
+
+##Complete Gantry (PS20025)
+
+![exploded view of Gantry Carriage](tPictures/PS20025_2.png)  ![](tPictures/so_assembly_carriage_gantry_2.jpg)
+![](tPictures/so_assembly_parts_2.jpg) 
+
+**Note:** the parts picture above shows some extra parts which will be used in the next step.
+
+Turn the eccentric nuts on the V-wheels on the Gantry Carriage (PS20031) so that they are as far from the static V-wheels as is possible. Carefully roll the Gantry Carriage onto the two pieces of MakerSlide, facing the spindle carriage away from the MakerSlide which is bolted in place at the extreme edge of the slot. Move the Gantry Carriage as close to the attached Motor Mount Carriage Plate as is possible, tighten the bolts for the loose MakerSlide. Attach the other Motor Mount Carriage in the same fashion, pushing down on the MakerSlide to ensure that everything is square. Ensure that the Gantry moves smoothly for the entire length of the X-axis. If necessary, loosen the M5 bolts and adjust the fit until everything is square and the gantry travels smoothly.
+
