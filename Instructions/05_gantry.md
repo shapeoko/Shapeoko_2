@@ -2,21 +2,21 @@
 
 ##Sub Gantry (PS20023)
 
-- 2 PS20022 Motor Mount Carriage
-- 2 PS20020 Belt Clip Assembly
-- 8 25286-02 M5 x 12mm, BHCS
-- 8 25287-02 Flat Washer, M5
-- 2 PS20008 X/Y Axis Rail MakerSlide Extrusion 500mm
+- 2 x PS20022 Motor Mount Carriage
+- 2 x PS20020 Belt Clip Assembly
+- 8 x 25286-02 M5 x 12mm, BHCS
+- 8 x 25287-02 Flat Washer, M5
+- 2 x PS20008 X/Y Axis Rail MakerSlide Extrusion 500mm
 
 ![exploded view of Gantry Carriage](tPictures/PS20023_2.png) 
 ![](tPictures/so_gantry_2.jpg)
 ![](tPictures/so_gantry_parts_2.jpg)
 
-**Note:** Do not attach one end plate during this step (despite the photograph showing this). Slide the gantry carriage onto the gantry (see below) before attaching the second motor mount plate.
+**Note:** Do not attach one end plate during this step (despite the photograph showing this). Slide the Z-Axis Assembly gantry carriage (PS20031) from the previous step onto the gantry (see below) before attaching the second motor mount plate.
 
 This is evident in the next step.
 
-Push the MakerSlide as far as is possible to one end of the slot which the 12mm M5 bolts fit through. Only tighten the pair of bolts on the MakerSlide which is snugged up against the end of the slot, the other should be slightly loose. Note that there is a space in-between the two pieces of MakerSlide. This spacing will be set in the next step.
+Push the MakerSlide as far as is possible to one end of the slot which the 12mm M5 bolts fit through. Only tighten the pair of bolts on the MakerSlide which is snugged up against the end of the slot, the other should be slightly loose. Note that there is a space in-between the two pieces of MakerSlide. This spacing will be set in a following step.
 
 ### Belt Anchors
 ![](tPictures/so_belt_anchors_2.jpg)

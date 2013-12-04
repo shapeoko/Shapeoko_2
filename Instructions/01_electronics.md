@@ -1,6 +1,6 @@
 # Testing Electronics
 ## Overview
-![exploded view of assembly step](http://placehold.it/200x200)  ![Arduino, gShield, wiring, stepper motors, lit](tPictures/so_e_arduino_wired_li_2.jpg) ![image of required components](tPictures/so_electronics_parts_2.jpg) ![Tools](tPictures/so_e_tools_2.jpg)
+![Wiring diagram](http://placehold.it/200x200)  ![Arduino, gShield, wiring, stepper motors, lit](tPictures/so_e_arduino_wired_li_2.jpg) ![image of required components](tPictures/so_electronics_parts_2.jpg) ![Tools](tPictures/so_e_tools_2.jpg)
 
 Before we get all crazy bolting our new machine together, let's give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require disassembly! Let's cut that off at the pass and give everything a thorough checking first.
 

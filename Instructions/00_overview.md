@@ -14,6 +14,10 @@ If you have any difficulties with assembly, please check the ShapeOko [wiki](htt
 
 ##Notes
 
+###Tools
+
+Only basic tools are required, unless one's MakerSlide needs to be tapped, in which case, in addition to wrenches, wire cutters and an assortment of Allen keys one will need an M5 x 0.8mm thread tap and handle. The 5mm and 8mm wrenches are close enough in size to 5/16" and 1/2" wrenches that one can substitute those, or when one needs 2 8mm wrenches, use a 1/2" and an 8mm. Similarly, the set screws should take a 1.5mm Allen key, but a 1/16" is only slightly larger and may afford better contact and be less likely to round out the screw.
+
 ###Screw Sizes
 
 For the most part, it's obvious which size screw is used for what, but the M5 10mm and 12mm BHCS (button head cap screws) are easily confused — while it's not noticeable when the shorter 10mm length is used where one ought to use a 12mm, the 10mm screws are intended for use with MakerSlide insertion nuts and a 12mm screw is too long and will bottom out before beginning to hold anything in place.

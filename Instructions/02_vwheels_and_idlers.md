@@ -6,7 +6,7 @@
 
 Makerslide uses V-wheels to allow for movement along the rails which it affords.
 
-The belts which the stepper motors drive the X- and Y-axes with require smooth idlers to route the belts so that they are held against the pulleys on the motor shafts.
+The belts which the stepper motors drive the X- and Y-axes which require smooth idlers to route the belts so that they are held against the pulleys on the motor shafts.
 
 ##V-Wheels
 
@@ -41,7 +41,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 1. Arrange all the pieces on a stable, flat work surface
 2. Place one bearing into each V-Wheel 
-3. Place a V-Wheel bearing side down onto the longest M5 bolt which is available, add a precision shim, then another bearing, press things together --- repeat until the bolt is full, clear the bolt and repeat until done
+3. Place a V-Wheel bearing side down onto the longest M5 bolt which is available, add a precision shim, then another bearing, press things together — repeat until the bolt is full, clear the bolt and repeat until done
 
 ##Smooth Idlers
 ![Smooth Idler Assembly](tPictures/25197-02_2.png)

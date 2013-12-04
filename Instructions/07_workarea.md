@@ -29,6 +29,8 @@ Slide Entire  Assembly over wasteboard Assembly, fasten with:
 
 Square up the wasteboard assembly carefully, since it will be the foundation for the balance of the machine.
 
+####Parts
+
 * 2 Y-Axis Rail Assembly (PS20026)
 * Complete Gantry (PS20025)
 * Waste Board Assembly (PS20024)
@@ -41,5 +43,8 @@ Congratulations! You've built a ShapeOko!
 
 ![](tPictures/so_complete_4.jpg)
 
+At this point, you will need to adjust the machine's V-wheels. These should be tight enough to hold things in alignment, but loose enough that the machine moves freely and smoothly. The suggested technique for this is, "Loosen the eccentric spacer until the V-wheel does not rotate when the carriage is moving and then tighten just (and no more!) until the v-wheel rotates when moving the carriage. Overtightening will lead to the V-wheel wearing out."
+
+You will also need to complete the wiring as documented in the next step.
 
 

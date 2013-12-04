@@ -7,7 +7,7 @@
 ![](tPictures/so_y_axis_rail_2.jpg)
 ![](tPictures/so_y_axis_rail_parts_2.jpg)
 
-**Note:** Do not attach the second end plate, that will be done in the next step.
+**Note:** Although the assembly photo shows both end plates attached, only attach one to each Y-axis rail at this time.
 
 ### Requirements
 

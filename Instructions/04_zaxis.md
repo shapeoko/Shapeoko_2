@@ -16,12 +16,12 @@ The Z-axis assembly is comprised of several sub-assemblies. When assembling it, 
 
 ####Parts
 
-- 1 26029-01 Motor Mount Plate (12ga)
-- 2 30158-01 Eccentric Nut
-- 4 25203-02 Dual Bearing V-Wheel Kit (assembly)
-- 4 PS20004 M5x20mm BHCS
-- 6 25287-02 Flat Washer, M5
-- 2 25284-02 M5 Hex Nut
+- 1 x 26029-01 Motor Mount Plate (12ga)
+- 2 x 30158-01 Eccentric Nut
+- 4 x 25203-02 Dual Bearing V-Wheel Kit (assembly)
+- 4 x PS20004 M5x20mm BHCS
+- 6 x 25287-02 Flat Washer, M5
+- 2 x 25284-02 M5 Hex Nut
 
 This is the plate the Z-axis will attach to (it is identical to the Motor Mount Carriage (PS20022) assembled in the previous step, but without smooth idlers. It sits on the front of the gantry and will be connected to the X-axis motor mount plate via rigid aluminum spacers. We will build the plate first, and then attach the two together.
 
@@ -87,7 +87,7 @@ One should also attach the motor for the Z-axis at this time.
 ####Tools
 
  - 2 13mm (or 1/2") open end wrenches
- - Allen key
+ - M3 Hex Key
 
 **Note:** Depending on how deeply tapped on the stepper motor and how long the threads are on the brass standoffs, it may be necessary to add additional M3 washers when attaching the motor using the brass standoffs.
 
@@ -132,8 +132,6 @@ Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they 
 
 ![](tPictures/ps20031_2.png)
 ![](tPictures/so_gantry_carriage_2.jpg)
-
-
 
 ###Requirements
 
