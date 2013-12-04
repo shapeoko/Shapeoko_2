@@ -1,27 +1,23 @@
 # End Plates
 
-PS20026
+##Y-Axis Rail Assembly (PS20026)
 
-## Overview
+### Overview
 ![exploded view of End Plates](tPictures/PS20026_2.png) 
-![](tPictures/so_y_axis_rail_parts_2.jpg) ![video?](http://placehold.it/200x200)
+![](tPictures/so_y_axis_rail_2.jpg)
+![](tPictures/so_y_axis_rail_parts_2.jpg)
 
-## Requirements
+**Note:** Do not attach the second end plate, that will be done in the next step.
 
-* End Plate (12ga) 26028-01 2 1
-* M5 x 12mm, BHCS 25286-02 4 2
-* Flat Washer, M5 25287-02 4 3
-* Belt Clip Assembly PS20020 2 4
-* X/Y Axis Rail - MakerSlide Extrusion - 500mm PS20008 1 5
+### Requirements
 
+####Parts
+* End Plate (12ga) 26028-01
+* M5 x 12mm, BHCS 25286-02 
+* Flat Washer, M5 25287-02 
+* Belt Clip Assembly PS20020 
+* X/Y Axis Rail - MakerSlide Extrusion - 500mm PS20008
 
-### Attaching MakerSlide
+Attach one end plate to each piece of MakerSlide using the 12mm M5 bolts and an M5 washer.
 
-### Attaching End Plates
-
-### Belt Anchors
-![](tPictures/so_belt_anchors_2.jpg)
-![](tPictures/so_belt_anchors_parts_2.jpg)
-
-### Alignment
-
+Do not attach the second end plate, that will be done in the next step.

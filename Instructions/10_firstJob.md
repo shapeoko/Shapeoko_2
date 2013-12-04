@@ -50,7 +50,7 @@ Select your letter with the pointer tool. Once it's selected, the border will tu
 
 
 ##Engrave Border
-Select the inside rounded rectangle (the one we made in step #3). Click CAM -> Follow Path Operation. Fill in the following values, then click OK. Your line will look highlighted yellow.
+Select the inside rounded rectangle (the one we made in step #3). Click CAM -> Follow Path Operation. Fill in the following values, then click OK. Your line will be highlighted yellow.
 
 ![engrave border](http://placehold.it/400x400)
 
@@ -87,7 +87,7 @@ Select the outside rounded rectangle (the one we made in Step #2). Click CAM -> 
 
 ![calculate toolpaths](http://placehold.it/400x400)
 
-It's time to generate your g-code! If you check the "view cuts" option in the top right portion of the screen, your toolpaths will be filled with nice colors representing the operations. If everything looks OK, go ahead and click CAM -> calculate all. Nice work.
+It's time to generate your G-code! If you check the "view cuts" option in the top right portion of the screen, your toolpaths will be filled with nice colors representing the operations. If everything looks OK, go ahead and click CAM -> calculate all. Nice work.
 
 
 ##Export Code
