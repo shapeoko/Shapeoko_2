@@ -8,7 +8,9 @@
 - 8 25287-02 Flat Washer, M5
 - 2 PS20008 X/Y Axis Rail MakerSlide Extrusion 500mm
 
-![exploded view of Gantry Carriage](tPictures/PS20023_2.png)  ![](tPictures/so_gantry_2.jpg) ![](tPictures/so_gantry_parts_2.jpg
+![exploded view of Gantry Carriage](tPictures/PS20023_2.png) 
+![](tPictures/so_gantry_2.jpg)
+![](tPictures/so_gantry_parts_2.jpg)
 
 **Note:** Do not attach one end plate during this step (despite the photograph showing this). Slide the gantry carriage onto the gantry (see below) before attaching the second motor mount plate.
 
